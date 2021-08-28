@@ -6,7 +6,7 @@ The code is split up into two: Data and Models. The Data files contain all code 
 
 ## Data
 * one.
-* ```data_training'''. This file contains data preprocessing and exploration of the training data.
+* `data_training'. This file contains data preprocessing and exploration of the training data.
 * ```data_full'''. This file contains data preprocessing of full data and constructs evaluation data.
 * ```data_meta'''. This file is used to get the name of the products in the evaluation data.
 * ```data_results'''. This file is used to do calculations with the result data of the BERT model.
