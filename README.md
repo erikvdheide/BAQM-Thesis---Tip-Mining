@@ -4,8 +4,8 @@
 This repository contains all files used for my master thesis "...".
 The code is split up into two: Data and Models. The Data files contain all code concerning data preparation, exploration and final evaluation. These are mainly .py files written in Anaconda's Spyder. The Models files contain all code related to the modeling part. These are mainly .ipynb files written in Google's Colaboratory.
 
-## Data
-* ```data_training'''
+# Data
+* ```datatraining'''
 
   This file contains data preprocessing and exploration of the training data.
   
@@ -15,11 +15,6 @@ The code is split up into two: Data and Models. The Data files contain all code 
 * ```data_results'''. This file is used to do calculations with the result data of the BERT model.
 * ```data_semantics'''. This file contains the semantical similarity calculation between the 10 categories.
 
-
-# List of code
-* ```Explanatory Analysis```
-
-   For the explanatory analysis, we construct several plots of the data and derive data statistics to give more insight in and a better comprehension of the data.
 
 ## Models
 * Later.
