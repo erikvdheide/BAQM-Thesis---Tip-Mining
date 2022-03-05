@@ -1,5 +1,5 @@
 # BAQM Thesis Tip Mining
-*Erik van der Heide. Erasmus University Rotterdam 2021.*
+*Erik van der Heide. Erasmus University Rotterdam 2021-2022.*
 
 This repository contains all files used for my master thesis "...".
 The code is split up into two: Data and Models. The Data files contain all code concerning data preparation, exploration and final evaluation. These are mainly .py files written in Anaconda's Spyder. The Models files contain all code related to the modeling part. These are mainly .ipynb files written in Google's Colaboratory.
