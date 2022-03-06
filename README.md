@@ -9,7 +9,7 @@ The raw and preprocessed data are given in the folder 'Data'. In the folder 'Cod
 Contains the labeled dataset as provided by Hirsch et al. (2021) (```generate_tips_data```) including a version with some manually corrected line-break mistakes (```generate_tips_data_fixed```). Also a readme from Hirsch et al. (2021) is provided.
 
 ## Data: Preprocessed Data
-Contains the preprocessed datasets that are actually used to train and evaluate BERT models on. Consists of fully processed data (```td_clean'''), including several balanced datasets (```td_clean_subsetX''', X = 1, 2, 3, 4, 5), as well as category-specific data and evaluation data of new products where TipBERT is evaluated on.
+Contains the preprocessed datasets that are actually used to train and evaluate BERT models on. Consists of fully processed data (```td_clean'''), including several balanced datasets (```td_clean_subsetX```, X = 1, 2, 3, 4, 5), as well as category-specific data and evaluation data of new products where TipBERT is evaluated on.
 
 ## Code: Code Data
 * ```data_training.py```. This file contains data preprocessing and exploration of the training data (85171 sentences, later split in train, val, test).
