@@ -1,0 +1,246 @@
+	asin	reviewer_id	category	freq	sentence	num_review	num_sentence	sen_length
+0	B0002DSVTC	A34W2MFO0M3MNN	Health & Personal Care	51	They're only a dollar each for name brand batteries ...free shipping!	1	1	11
+1	B0002DSVTC	A34W2MFO0M3MNN	Health & Personal Care	51	Less than a dollar even.	1	2	5
+2	B0002DSVTC	A34W2MFO0M3MNN	Health & Personal Care	51	Can't beat that.	1	3	3
+3	B0002DSVTC	A34W2MFO0M3MNN	Health & Personal Care	51	Came in a week; lasted 2 months.	1	4	6
+4	B0002DSVTC	A34W2MFO0M3MNN	Health & Personal Care	51	I paid $10 each for Radio Shack brand batteries (plus tax) which lasted about a month.	1	5	15
+5	B0002DSVTC	A34W2MFO0M3MNN	Health & Personal Care	51	I use them for my spoke lights (need 4 total).	1	6	9
+6	B0002DSVTC	A34W2MFO0M3MNN	Health & Personal Care	51	They're good for $1 & more of a value than store bought batteries: $40 vs. $4.CON?	1	7	11
+7	B0002DSVTC	A34W2MFO0M3MNN	Health & Personal Care	51	2 MONTH LIFE.	1	8	2
+8	B0002DSVTC	A34W2MFO0M3MNN	Health & Personal Care	51	Still lasted longer than Radio Shack batteries.	1	9	7
+9	B0002DSVTC	A34W2MFO0M3MNN	Health & Personal Care	51	They're not in the retail packaging and there's no expiration date.	1	10	11
+10	B0002DSVTC	A34W2MFO0M3MNN	Health & Personal Care	51	I wish they lasted longer but so far they're the best deal I can find.	1	11	15
+11	B0002DSVTC	A27BAP6N4WJ3G1	Health & Personal Care	51	The batteries arrived in the projected time, good quality products and recognized brand, great price, nice place to buy.Energizer Watch/Electronic Batteries, 3 Volts, 2016, 2 batteries	3	1	21
+12	B0002DSVTC	A2Z2VZEOYK3EMX	Health & Personal Care	51	I use these in my Photon key chain flashlight which won't work without them.	4	1	14
+13	B0002DSVTC	A2Z2VZEOYK3EMX	Health & Personal Care	51	Need I say more?	4	2	4
+14	B0002DSVTC	A2Z2VZEOYK3EMX	Health & Personal Care	51	Three words more.	4	3	3
+15	B0002DSVTC	AMQRQRNZGLKD5	Health & Personal Care	51	bought this as an add on  device  mainly for back up  was pleasantly  surprised .!	5	1	14
+16	B0002DSVTC	AMQRQRNZGLKD5	Health & Personal Care	51	!Beat the Wally World prices  very muchworth the small wait!!	5	2	10
+17	B0002DSVTC	AMQRQRNZGLKD5	Health & Personal Care	51	Kerflooosh  Thanks  Amazon!	5	3	3
+172	B0009R5AA4	A196TMEBP8NW5V	Health & Personal Care	6	I purchased this recently at my grocery store and then checked Amazon to see if it was cheaper, because now that I've discovered it I never want to run out!	52	1	30
+173	B0009R5AA4	A196TMEBP8NW5V	Health & Personal Care	6	IT'S AMAZING.	52	2	2
+174	B0009R5AA4	A196TMEBP8NW5V	Health & Personal Care	6	We have multiple pets and low-pile carpet in a few areas of the house.	52	3	13
+175	B0009R5AA4	A196TMEBP8NW5V	Health & Personal Care	6	"I've tried other brands of ""carpet refreshers"" or ""odor control"" and wind up with some horrible sickening hybrid perfume and pet odor smell that actually makes the situation worse."	52	4	29
+176	B0009R5AA4	A196TMEBP8NW5V	Health & Personal Care	6	I tried this (the foaming no vacuum version) and it ACTUALLY WORKS.	52	5	12
+177	B0009R5AA4	A196TMEBP8NW5V	Health & Personal Care	6	The pet smell is 100% gone and what's left is a clean, mild smell that just smells a little like gardenia (and not catpoop-gardenia)	52	6	22
+178	B0009R5AA4	A22JLFSDW75E8U	Health & Personal Care	6	After purchasing our home we noticed one spot of carpet that had a really bad foot odor.	53	1	17
+179	B0009R5AA4	A22JLFSDW75E8U	Health & Personal Care	6	We tried EVERYTHING, we even steam cleaned the carpet in that spot repeatedly.I wish we had saved our money and just tried this first.	53	2	23
+180	B0009R5AA4	A22JLFSDW75E8U	Health & Personal Care	6	After one use the odor was gone.	53	3	7
+181	B0009R5AA4	A22JLFSDW75E8U	Health & Personal Care	6	I have a really good nose and have sniffed all over the carpet.	53	4	13
+182	B0009R5AA4	A22JLFSDW75E8U	Health & Personal Care	6	It has been months and the odor is still gone.This stuff is cheap, and it works.	53	5	15
+183	B0009R5AA4	A22JLFSDW75E8U	Health & Personal Care	6	Give it a try!	53	6	4
+184	B0009R5AA4	A11PTCZ2FM2547	Health & Personal Care	6	I no longer have pets.	54	1	5
+185	B0009R5AA4	A11PTCZ2FM2547	Health & Personal Care	6	I used to--I used to have a bunch.	54	2	9
+186	B0009R5AA4	A11PTCZ2FM2547	Health & Personal Care	6	"So I know all about ""pet odor."""	54	3	7
+187	B0009R5AA4	A11PTCZ2FM2547	Health & Personal Care	6	And critters and carpet just don't go to together:  never have, never will.	54	4	13
+188	B0009R5AA4	A11PTCZ2FM2547	Health & Personal Care	6	So I've been a devout user of CARPET FRESH NO VACUUM FOAM (SUPER PET), and I still use this delightful foam even though the pets are long gone, because I love the way it freshens up my humble abode.This foam is so easy to use; just spray--that's it.	54	5	48
+189	B0009R5AA4	A11PTCZ2FM2547	Health & Personal Care	6	No vacuuming, no mess.	54	6	4
+190	B0009R5AA4	A11PTCZ2FM2547	Health & Personal Care	6	.just a room that smells fresh and clean.	54	8	7
+191	B0009R5AA4	A11PTCZ2FM2547	Health & Personal Care	6	And be sure you're buying the SUPER PET version; it furnishes the freshest, most pleasing scent.	54	9	16
+192	B0009R5AA4	A11PTCZ2FM2547	Health & Personal Care	6	I find this foam is just what the doctor ordered after cooking a meal that lingers in the connecting rooms off the kitchen.	54	10	23
+193	B0009R5AA4	A11PTCZ2FM2547	Health & Personal Care	6	Was that bacon I cooked for breakfast?	54	11	7
+194	B0009R5AA4	A11PTCZ2FM2547	Health & Personal Care	6	Just spray the CARPET FRESH in the living room, and the bacon smell is no more.It's grand to find a household product that really works, and CARPET FRESH NO VACUUM FOAM (SUPER PET) is one of 'em.	54	12	35
+195	B0009R5AA4	A11PTCZ2FM2547	Health & Personal Care	6	I might just go ahead and get me another dog.	54	13	10
+196	B0009R5AA4	A11PTCZ2FM2547	Health & Personal Care	6	Mikels, Esq.	54	16	2
+197	B0009R5AA4	A3J96H3C5XODXK	Health & Personal Care	6	I love this Carpet Fresh product.	55	1	6
+198	B0009R5AA4	A3J96H3C5XODXK	Health & Personal Care	6	It doesn't leave behind a residue and I love the smell but the price is WAY to high !	55	2	18
+199	B0009R5AA4	A3J96H3C5XODXK	Health & Personal Care	6	Crazy to spend so much for 1 can of carpet refresher.	55	3	10
+200	B0009R5AA4	A3J96H3C5XODXK	Health & Personal Care	6	Hope I can find something comparible for less........still looking.	55	4	10
+201	B0009R5AA4	A2YG0PP0CKS6AF	Health & Personal Care	6	I purchased this product because i moved to a new 1 bedroom apartment that had carpet thru-out and I wanted something that would  keep that apartmen deodorized n fresh smelling.	56	1	28
+202	B0009R5AA4	A2YG0PP0CKS6AF	Health & Personal Care	6	I dont have any pets, but Because there was carpet thru-out, I figured I would try a carpet deodorizer.	56	2	18
+203	B0009R5AA4	A2YG0PP0CKS6AF	Health & Personal Care	6	I found this product on amazon and figured I would give it a try.	56	3	14
+204	B0009R5AA4	A2YG0PP0CKS6AF	Health & Personal Care	6	It is very pleasant smelling, but I find the odor/fresh smell does not last very long and you could easily go through a can in 2days or less.	56	4	26
+205	B0009R5AA4	A2YG0PP0CKS6AF	Health & Personal Care	6	if you have pets or a smelly apartment, then it by be worth the purchase but if you are just looking to keep your apartment fresh smelling, i dont find this product worth the money for that.	56	5	37
+206	B0009R5AA4	A2YG0PP0CKS6AF	Health & Personal Care	6	In addition, this can only be purchased as an ad-on item from amazon but you can get it for half the price on simsuply.com and use your amazon account to pay.	56	6	29
+211	B000FSZNZY	A1T78RC5YFRUB3	Health & Personal Care	5	I love this stuff.	58	1	4
+212	B000FSZNZY	A1T78RC5YFRUB3	Health & Personal Care	5	It doesn't have a strong smell, but it cleans very effectively.	58	2	11
+213	B000FSZNZY	A1T78RC5YFRUB3	Health & Personal Care	5	Cats leave accidents In all kinds of places; for a hard surface, this is my go-to cleaner.	58	3	16
+214	B000FSZNZY	A3G8T4D5526VBB	Health & Personal Care	5	I have grand kids and their friends who come over all the time it is flu season and I am 64 with a heart condition so I am not a freak about germs but I need to be very careful about flu bugs so I buy this and use it on all the counters.	59	1	53
+215	B000FSZNZY	A1WCZA9TMIS1WG	Health & Personal Care	5	Been using this for years.	60	1	5
+216	B000FSZNZY	A1WCZA9TMIS1WG	Health & Personal Care	5	Safe around pets, which we have.	60	2	6
+217	B000FSZNZY	A1WCZA9TMIS1WG	Health & Personal Care	5	No odor.	60	3	2
+218	B000FSZNZY	A1WCZA9TMIS1WG	Health & Personal Care	5	No rinsing.	60	4	2
+219	B000FSZNZY	A1WCZA9TMIS1WG	Health & Personal Care	5	Easy trigger spray.	60	5	3
+220	B000FSZNZY	A1WCZA9TMIS1WG	Health & Personal Care	5	What's not to like?	60	6	4
+221	B000FSZNZY	A1SIFC4JMESM0H	Health & Personal Care	5	While I love sanitizing and disinfecting my kitchen, I am hesitant about cleaning a surface immediately before I prepare food (chopping boards, etc.).	61	1	23
+222	B000FSZNZY	A1SIFC4JMESM0H	Health & Personal Care	5	Somehow got in the belief that if I use a harsh chemical, somehow waiting a few hours will naturally remove those chemicals once they dry.	61	2	25
+223	B000FSZNZY	A1SIFC4JMESM0H	Health & Personal Care	5	Well obviously this isn't the case.Although I don't know beyond its label if this is as effective as alternative cleaners (chlorine bleach, disinfectants, etc.	61	3	23
+224	B000FSZNZY	A1SIFC4JMESM0H	Health & Personal Care	5	), it at least makes me feel a little more comfortable to use to wipe down a surface which will come into contact with food.	61	4	24
+225	B000FSZNZY	A1SIFC4JMESM0H	Health & Personal Care	5	I can't find anything wrong with this product other than it does seem to keep surfaces wet a little longer than the harsher alternatives.	61	5	24
+226	B000FSZNZY	AAUJKGEJZDZTD	Health & Personal Care	5	Loved this product from day one.	62	1	6
+227	B000FSZNZY	AAUJKGEJZDZTD	Health & Personal Care	5	Keeps my cooking /preparing surfaces germ free easily and effectively.	62	2	9
+228	B000FSZNZY	AAUJKGEJZDZTD	Health & Personal Care	5	No kitchen should be without it.	62	3	6
+229	B000GFPBIK	A3USC8JQ978XI5	Health & Personal Care	5	I've never tried something like this before, so naturally, I was a bit concerned.	63	1	14
+230	B000GFPBIK	A3USC8JQ978XI5	Health & Personal Care	5	But, I haven't noticed any side effects, and so far, I haven't noticed it reacting to any of the prescriptions I take (but I do suggest taking Hoodia an hour or two after prescriptions to be safe).	63	2	37
+231	B000GFPBIK	A3USC8JQ978XI5	Health & Personal Care	5	AND, the great thing is, I haven't been hungry!	63	3	9
+232	B000GFPBIK	A3USC8JQ978XI5	Health & Personal Care	5	It took one day of taking it before it really took effect, so if you don't feel less hungry the first day, wait.	63	4	23
+233	B000GFPBIK	A3USC8JQ978XI5	Health & Personal Care	5	I also don't take it an hour before meals; I take it with meals because I'm more prone to snacking between meals than overeating at meals.	63	5	26
+234	B000GFPBIK	A3USC8JQ978XI5	Health & Personal Care	5	I'm very impressed with this product and will continue taking it through the holidays.	63	6	14
+235	B000GFPBIK	A177ZECTZZ782U	Health & Personal Care	5	At first when I tried this product I felt extremely hungry, because I was not taking it exactly an hour beofre I ate with 8 ounces of water like it suggested.	64	1	30
+236	B000GFPBIK	A177ZECTZZ782U	Health & Personal Care	5	I ordered the liquid hoodia by the way, because I am not a fan of taking pills since I already have enough in my daily regimen.	64	2	26
+237	B000GFPBIK	A177ZECTZZ782U	Health & Personal Care	5	Anyways a little over a week after taking the liquid I noticed on Day 10 I took 1/4 a teaspoon and actually measured it before I rook it and had exactly 8 ounces of water it really did get rid of the hunger for that hour before I ate breakfat.	64	3	47
+238	B000GFPBIK	A177ZECTZZ782U	Health & Personal Care	5	I actually had to remind myself to eat.	64	4	8
+239	B000GFPBIK	A177ZECTZZ782U	Health & Personal Care	5	I am going to try taking it an hour before breakfast, lunch, and dinner as directed and hopefully it continues to work, because for the first nine days I must not have been drinking enough water with the product so I was hungrier and eating everything in sight.	64	5	48
+240	B000GFPBIK	A177ZECTZZ782U	Health & Personal Care	5	Will update you, I need this product cause I need to cut down on eating too many carbs especially the ones that are quick to turn into sugar.	64	6	28
+241	B000GFPBIK	A3BCDLNM7XBH6H	Health & Personal Care	5	I paired this with nature's way blood sugar control and had LOTS of success.	65	1	14
+242	B000GFPBIK	A3BCDLNM7XBH6H	Health & Personal Care	5	My appetite is well under control, and have lost about 5 pounds with very little effort.	65	2	15
+243	B000GFPBIK	A3BCDLNM7XBH6H	Health & Personal Care	5	I have changed my diet now it's time to increase exercise.	65	3	11
+244	B000GFPBIK	A3BCDLNM7XBH6H	Health & Personal Care	5	I would recommend this to anyone as pert of a healthy diet and exercise.	65	4	14
+245	B000GFPBIK	A1XQXI0YWYP12B	Health & Personal Care	5	I add a little (1/2 tsp) to lemon water or tea or whatever liquid I happen to be drinking that day  and sip while I do errands  away from home (which is when I am in most need of support to not eat)  It keeps me feeling level and not hungry without making me feel jittery or overly full.	66	1	58
+246	B000GFPBIK	A1XQXI0YWYP12B	Health & Personal Care	5	I can last without feeling the need for a fried chicken stop for well over two hours past my normal meal time.	66	2	22
+247	B000GFPBIK	A1XQXI0YWYP12B	Health & Personal Care	5	Which is a big plus for me.	66	3	7
+248	B000GFPBIK	A1XQXI0YWYP12B	Health & Personal Care	5	As far as the taste goes when mixed with juice or tea or something with lemon I can barely taste it.	66	4	21
+249	B000GFPBIK	A1XQXI0YWYP12B	Health & Personal Care	5	I would not take it with just plain water.	66	5	9
+250	B000GFPBIK	A1XQXI0YWYP12B	Health & Personal Care	5	But the good it does outweighs the taste.	66	6	8
+251	B000GFPBIK	A1XQXI0YWYP12B	Health & Personal Care	5	Hoodia is good stuff and it works.	66	7	7
+252	B000GFPBIK	ANAQ8X4OQ80HJ	Health & Personal Care	5	So far I'm quite happy with this, I use the 1/4 tsp.	67	1	11
+253	B000GFPBIK	ANAQ8X4OQ80HJ	Health & Personal Care	5	dose and it works well enough.	67	2	6
+254	B000GFPBIK	ANAQ8X4OQ80HJ	Health & Personal Care	5	You don't even have to take it an hour before a meal.	67	3	12
+255	B000GFPBIK	ANAQ8X4OQ80HJ	Health & Personal Care	5	I take it even after a meal and it still works.	67	4	11
+256	B000GFPBIK	ANAQ8X4OQ80HJ	Health & Personal Care	5	Just be sure you do use 8 oz.	67	5	7
+257	B000GFPBIK	ANAQ8X4OQ80HJ	Health & Personal Care	5	of water, any less and the stuff tastes bitter.	67	6	9
+258	B000YDJIYW	A1SJ5ZG9T5OHAH	Health & Personal Care	7	This product, as all TheraNeem products are excellent to promote a healthy gum, teeth and a general mouth well being.	68	1	20
+259	B000YDJIYW	A1SJ5ZG9T5OHAH	Health & Personal Care	7	My wife has been using it for a few months now and here gums, teeth and general mouth health has improved 100%.	68	2	21
+260	B000YDJIYW	A1SJ5ZG9T5OHAH	Health & Personal Care	7	We now know that this product is superior to any commercial mouth wash in the market (period).	68	3	17
+261	B000YDJIYW	AOJ2ORVSUS4TA	Health & Personal Care	7	I used to use Listerine but this is much more pleasant, natural and just as effective or more for my breath.	69	1	21
+262	B000YDJIYW	AOJ2ORVSUS4TA	Health & Personal Care	7	So glad I found it.	69	2	5
+263	B000YDJIYW	A25HQR7OCJIX35	Health & Personal Care	7	I have to say, after reading all the great ingredients this mouthwash has, I was so happy I finally found it.	70	1	21
+264	B000YDJIYW	A25HQR7OCJIX35	Health & Personal Care	7	However, the liquid its yellow, so that means bad news for any person who pay a lot of money for tooth whitening, because yes it will stain your tooth.	70	2	29
+265	B000YDJIYW	A25HQR7OCJIX35	Health & Personal Care	7	For me, this product is a no, no.	70	3	8
+266	B000YDJIYW	A1F98QM3ACQKYC	Health & Personal Care	7	A gentle, healing mouthwash for sensitive teeth.	71	1	7
+267	B000YDJIYW	A1F98QM3ACQKYC	Health & Personal Care	7	Taste is really good without being a harsh, burning feeling that so many others on the market have.	71	2	18
+268	B000YDJIYW	A122WBTL6CKV6Z	Health & Personal Care	7	Bought this for my daughter who was having some gum issues.	72	1	11
+269	B000YDJIYW	A122WBTL6CKV6Z	Health & Personal Care	7	She reported back that his stuff ws great.	72	2	8
+270	B000YDJIYW	A122WBTL6CKV6Z	Health & Personal Care	7	Cured her issue.	72	3	3
+275	B0012BSOB8	A2SMKVOCLH2JS3	Health & Personal Care	8	From time to time either dress or hard exercise cause my husband and me to get wrung out, feeling tired, not sleeping well, etc.	75	1	24
+276	B0012BSOB8	A2SMKVOCLH2JS3	Health & Personal Care	8	This product really helps us during those times.	75	2	8
+277	B0012BSOB8	A3L7XJIT7JY9JW	Health & Personal Care	8	This supplement is recommended by Dr. Teitelbaum as part of his treatment for chronic fatigue syndrome (CFS) and fibromyalgia (FMS).	76	1	19
+278	B0012BSOB8	A3L7XJIT7JY9JW	Health & Personal Care	8	I began taking it (2 capsules per day) along with several other supplements about 10 months ago and my health has significantly improved, specifically with regard to immune system ability to fight off infections, much-improved energy levels, and depression/anxiety lessened.	76	2	36
+279	B0012BSOB8	A3L7XJIT7JY9JW	Health & Personal Care	8	Unfortunately, I cannot tell whether or not this supplement was responsible for my improvements by itself since it was a part of an entire group of supplements which I began using at the same time.	76	3	36
+280	B0012BSOB8	A3L7XJIT7JY9JW	Health & Personal Care	8	If you're interested in this supplement I highly recommend going to Dr. Teitelbaum's site or getting his books and reading about his research.	76	4	22
+281	B0012BSOB8	AV9LJS8A0CTGH	Health & Personal Care	8	This stuff is very effective if you are indeed suffering from adrenal exhaustion.	77	1	13
+282	B0012BSOB8	AV9LJS8A0CTGH	Health & Personal Care	8	I have a pancreatic disorder with unknown cause, and frequently have pain in areas where my adrenal glands are located.	77	2	20
+283	B0012BSOB8	AV9LJS8A0CTGH	Health & Personal Care	8	During the times this pain flares, the problems with my disorder get worse.	77	3	13
+284	B0012BSOB8	AV9LJS8A0CTGH	Health & Personal Care	8	I've been taking this product for a few months now, and have seen definite improvement.	77	4	15
+285	B0012BSOB8	AV9LJS8A0CTGH	Health & Personal Care	8	My digestion is better, my anxiety is better, I'm sleeping better, and issues with my pain, nausea, and weight are better controlled.	77	5	22
+286	B0012BSOB8	AV9LJS8A0CTGH	Health & Personal Care	8	My energy levels are not where I want them to be, but they are improving slowly and steadily.I do have some pain in the area of the adrenal gland located near my pancreas when I take this, but it resolves itself within 30-45 minutes and I have not seen any ill effects from that pain.	77	6	53
+287	B0012BSOB8	AV9LJS8A0CTGH	Health & Personal Care	8	I just consider it a mildly nagging side effect; certainly better than the scary side effects of prescription pharmaceuticals cooked up in a lab!	77	7	24
+288	B0012BSOB8	AV9LJS8A0CTGH	Health & Personal Care	8	My general practitioner told me not to take it - but she also told me not to take any over the counter supplement including very mild things such as fish oil capsules and B complex vitamins.	77	8	35
+289	B0012BSOB8	AV9LJS8A0CTGH	Health & Personal Care	8	She was all about the prescription stuff instead.	77	9	8
+290	B0012BSOB8	AV9LJS8A0CTGH	Health & Personal Care	8	My endocrinologist, however, saw no problem with me taking this supplement.	77	10	11
+291	B0012BSOB8	AV9LJS8A0CTGH	Health & Personal Care	8	It does not interfere with medication I am taking for my thyroid or my pancreas.	77	11	15
+292	B0012BSOB8	AV9LJS8A0CTGH	Health & Personal Care	8	As the box states, you should of course consult your doctor before taking this, especially if you are taking prescription medications.	77	12	21
+293	B0012BSOB8	A2G93UHDVP0UWM	Health & Personal Care	8	Great product that does not give you heart palpitations just a boost for those of us who are getting older.	78	1	20
+294	B0012BSOB8	A2G93UHDVP0UWM	Health & Personal Care	8	Keeps you going from early morning to late at night if needed without an awful letdown.	78	2	16
+295	B0012BSOB8	A2G93UHDVP0UWM	Health & Personal Care	8	Very good product from a reliable company.	78	3	7
+296	B0012BSOB8	AT86SCDYKOIFN	Health & Personal Care	8	I trust the formula because of the Dr who did the research and came up with it.	79	1	17
+297	B0012BSOB8	AT86SCDYKOIFN	Health & Personal Care	8	I have looked at similar products and find they either don't include some of these ingredients or have smaller amounts.	79	2	20
+298	B0012BSOB8	AT86SCDYKOIFN	Health & Personal Care	8	We can tell when we run out of these.	79	3	9
+299	B0012BSOB8	AT86SCDYKOIFN	Health & Personal Care	8	We order 2 bottles per month.	79	4	5
+300	B0012BSOB8	AT86SCDYKOIFN	Health & Personal Care	8	I have fibromyalgia and we have been dealing with a lot of ongoing stress( who isn't?!).	79	5	16
+301	B0012BSOB8	AT86SCDYKOIFN	Health & Personal Care	8	If we run out and then begin to take then again we notice a calming and sense of well being once we take them again.	79	6	25
+302	B0012BSOB8	AT86SCDYKOIFN	Health & Personal Care	8	My family has asked that we never run out of these!	79	7	11
+315	B001DB6XWE	A3IHGTCMN7LZHE	Health & Personal Care	12	I use this product for so many things that I run out within days of getting it.	83	1	17
+316	B001DB6XWE	A3IHGTCMN7LZHE	Health & Personal Care	12	My GF had a small burn in her harm that was burning a lot, she couldn't believe how the pain was instantly gone when I applied some of this silver gel.	83	2	31
+317	B001DB6XWE	A3IHGTCMN7LZHE	Health & Personal Care	12	It was gone within seconds and never came back, she is still amazed to this day.Must have.	83	3	16
+318	B001DB6XWE	A2M3C1SRCBA7F2	Health & Personal Care	12	I'm not big on homeopathic-type remedies but this works great on itching snd insect bites.	84	1	14
+319	B001DB6XWE	A2M3C1SRCBA7F2	Health & Personal Care	12	Actually on most skin irritations.	84	2	5
+320	B001DB6XWE	A2M3C1SRCBA7F2	Health & Personal Care	12	A little dab will do it.	84	3	6
+321	B001DB6XWE	A28EMTHVF120XV	Health & Personal Care	12	Love this stuff!	85	1	3
+322	B001DB6XWE	A28EMTHVF120XV	Health & Personal Care	12	We've used it on cuts and scrapes and it has healed them up very quickly.	85	2	15
+323	B001DB6XWE	A28EMTHVF120XV	Health & Personal Care	12	Also used some on some hot spots on our dog and they started to heal up quickly as well.	85	3	19
+324	B001DB6XWE	A28EMTHVF120XV	Health & Personal Care	12	It seems to take the sting out of the sore after you put it on.	85	4	15
+325	B001DB6XWE	AYY0FA3TQIQMA	Health & Personal Care	12	I keep a bottle of this in the medicine cabinet all the time now.	86	1	14
+326	B001DB6XWE	AYY0FA3TQIQMA	Health & Personal Care	12	I'm sensitive to much too much stuff, but this silver product is fantastic and helped heal a wound that I had been treating for 5 weeks.	86	2	25
+327	B001DB6XWE	AYY0FA3TQIQMA	Health & Personal Care	12	Worth every penny.	86	3	3
+328	B001DB6XWE	A2820FVK0ZMY9W	Health & Personal Care	12	I got this out of &#34;fluke&#34; to cure an old acne wound that would not heal.	87	1	16
+329	B001DB6XWE	A2820FVK0ZMY9W	Health & Personal Care	12	I used only this product on it for one week and it healed completely with zero scar!	87	2	17
+330	B001DB6XWE	A2820FVK0ZMY9W	Health & Personal Care	12	If you have any type of cut it will heal faster, won't hurt to apply, feels like a water product and works!	87	3	22
+331	B001DB6XWE	A2820FVK0ZMY9W	Health & Personal Care	12	I cut my finger with a knife by accident cutting vege's and the cut was deep, in one week it went away with no scar.	87	4	25
+332	B001DB6XWE	A2820FVK0ZMY9W	Health & Personal Care	12	It has a antiseptic in it so you won't get infections.	87	5	11
+333	B001DB6XWE	A2820FVK0ZMY9W	Health & Personal Care	12	I use on my face before bedtime.	87	6	7
+334	B001DB6XWE	A2820FVK0ZMY9W	Health & Personal Care	12	Best product out there!	87	7	4
+335	B001DB6XWE	A2820FVK0ZMY9W	Health & Personal Care	12	If you do not like it they will refund your money.	87	8	11
+336	B001DB6XWE	A2820FVK0ZMY9W	Health & Personal Care	12	HIT LIKE...comment below, thanks, Jackie	87	9	6
+371	B001MIZMIE	A2XLMINXDJ75GR	Health & Personal Care	13	We're getting into summer and my wife loves to wear flip-flops or go barefoot, showing off her cute nails!	95	1	18
+372	B001MIZMIE	A2XLMINXDJ75GR	Health & Personal Care	13	Unfortunately, going barefoot tends to dry out the soles of her feet.I have had good result with Gold-Bond hand cream before, so the other day i bought this four-pack of foot cream, and gave it to my wife with a home made coupon for free foot massages...needless to say she is very happy :)Note: if you haven't given a foot rub before try to remember that it doesn't take a lot of pressure.	95	2	71
+373	B001MIZMIE	A2XLMINXDJ75GR	Health & Personal Care	13	The soles of the feet tend to be rather desensitized (the thickest skin), but for most people the arch of the foot is very delicate and sensitive.	95	3	27
+374	B001MIZMIE	A2XLMINXDJ75GR	Health & Personal Care	13	Try to rub it no harder than you would stroke a babies cheek :)	95	4	13
+375	B001MIZMIE	A38S9UIL0GT46R	Health & Personal Care	13	I do honestly love this.	96	1	5
+376	B001MIZMIE	A38S9UIL0GT46R	Health & Personal Care	13	Way smoother and thicker than regular lotions, and even when I wash my hands almost every minute ( I work in a health care setting ) it doesn't dry them at all.	96	2	30
+377	B001MIZMIE	A38S9UIL0GT46R	Health & Personal Care	13	Especially these winter months.	96	3	4
+378	B001MIZMIE	A1Z54EM24Y40LL	Health & Personal Care	13	Isn't it nice that when you're desperate to find something that actually works, you find one that does?	97	1	18
+379	B001MIZMIE	A1Z54EM24Y40LL	Health & Personal Care	13	Look no further if you have dry, cracked, calloused feet because this stuff is more than the answer.	97	2	18
+380	B001MIZMIE	A1Z54EM24Y40LL	Health & Personal Care	13	It not only heals your skin, gets rid of the callouses, it also actually makes them soft.	97	3	17
+381	B001MIZMIE	A1Z54EM24Y40LL	Health & Personal Care	13	My husband has the ugliest feet imaginable because of all the callouses.	97	4	12
+382	B001MIZMIE	A1Z54EM24Y40LL	Health & Personal Care	13	Well, no more!	97	5	3
+383	B001MIZMIE	A1Z54EM24Y40LL	Health & Personal Care	13	When his feet snagged the bedsheets, well, that was just not right, so I went off looking for something to solve the problem.	97	6	23
+384	B001MIZMIE	A1Z54EM24Y40LL	Health & Personal Care	13	Can't recommend this stuff enough.	97	7	5
+385	B001MIZMIE	A1Z54EM24Y40LL	Health & Personal Care	13	Highly, highly recommend!	97	8	3
+386	B001MIZMIE	A5PC6KU9TQFRY	Health & Personal Care	13	I use GB Ultimate Healing, Foot Cream regularly on my lower legs and feet.	98	1	14
+387	B001MIZMIE	A5PC6KU9TQFRY	Health & Personal Care	13	I'm diabetic and have to carefully care for my feet.	98	2	10
+388	B001MIZMIE	A5PC6KU9TQFRY	Health & Personal Care	13	This is soothing and moisturizing.	98	3	5
+389	B001MIZMIE	A5PC6KU9TQFRY	Health & Personal Care	13	I've had certain presistent dry areas before I tried this cream.	98	4	11
+390	B001MIZMIE	A5PC6KU9TQFRY	Health & Personal Care	13	Using it just 2 days a week they were gone by the second week and have stayed away.	98	5	17
+391	B001MIZMIE	A5PC6KU9TQFRY	Health & Personal Care	13	As a cream it is thicker that the lotion I previously used.	98	6	12
+392	B001MIZMIE	A5PC6KU9TQFRY	Health & Personal Care	13	So it gives more lasting relief.	98	7	6
+393	B001MIZMIE	A5PC6KU9TQFRY	Health & Personal Care	13	My wife had a dry patch on her elbow and this Cream healed that quickly so she quite using it.	98	8	20
+394	B001MIZMIE	A5PC6KU9TQFRY	Health & Personal Care	13	The dryness came back.	98	9	4
+395	B001MIZMIE	A5PC6KU9TQFRY	Health & Personal Care	13	So it needs to be continued in those dry and other areas of concern.	98	10	14
+396	B001MIZMIE	A5PC6KU9TQFRY	Health & Personal Care	13	As the old &#34;Brylcream&#34; ad said: &#34;A little dab will do you...&#34;  I will continue to use this as will my wife, and can hardily recommend it.	98	11	27
+397	B001MIZMIE	A9J5SLYXUCWO1	Health & Personal Care	13	This is a perfect heavy cream for dry cracked feet.	99	1	10
+398	B001MIZMIE	A9J5SLYXUCWO1	Health & Personal Care	13	Even though I get pedicures regularly, my feet tend to dry out and harden, especially in the winter months.	99	2	19
+399	B001MIZMIE	A9J5SLYXUCWO1	Health & Personal Care	13	This cream is absolutely wonderful for the feet and, as a result, for the hands too.	99	3	16
+400	B001MIZMIE	A9J5SLYXUCWO1	Health & Personal Care	13	I highly recommend this wonderful foot cream.	99	4	7
+429	B002UZQT58	A6ZPK5DTNPZPG	Health & Personal Care	6	I've had allergy and sinus problems for many many years, even having sinus surgery (things are much better now).	108	1	19
+430	B002UZQT58	A6ZPK5DTNPZPG	Health & Personal Care	6	I've been using saline rinses twice daily for years and have tried a couple of different types, as well as the Simply Saline nasal spray mists which are pressurized.	108	2	29
+431	B002UZQT58	A6ZPK5DTNPZPG	Health & Personal Care	6	I wish the bottles came in larger than 8 oz, so I don't have to fill so often, but they all seem to be the same capacity.	108	3	26
+432	B002UZQT58	A6ZPK5DTNPZPG	Health & Personal Care	6	I loved this one and thought it was a nice simple design with good bottle that is easy to squeeze.	108	4	20
+433	B002UZQT58	A6ZPK5DTNPZPG	Health & Personal Care	6	No leaks, no problems.	108	5	4
+434	B002UZQT58	A6ZPK5DTNPZPG	Health & Personal Care	6	Until today when I cleaned and filled it yet again (which I do about once a week) and noticed there is black bacteria inside the rings of the cap.	108	6	29
+435	B002UZQT58	A6ZPK5DTNPZPG	Health & Personal Care	6	I have never noticed it before, but who knows how long it's been there.	108	8	14
+436	B002UZQT58	A6ZPK5DTNPZPG	Health & Personal Care	6	I rinse it out several times with hot water in between fillings, and have at times put it in the dishwasher as well (but I wasn't sure if the latter was okay for the plastic, so I did this only intermittently).	108	9	41
+437	B002UZQT58	A6ZPK5DTNPZPG	Health & Personal Care	6	I'm currently soaking the cap in boiling hot water to try and clean it, but as this is probably going to be an ongoing problem, I will probably buy a different bottle type with a different shape cap.The salt packets that come with it are fine and not irritating at all.	108	10	50
+438	B002UZQT58	A6ZPK5DTNPZPG	Health & Personal Care	6	They ran out long ago and I have been using a half teaspoon of table salt since, which works just as well.Update: It took several tries to get that cap perfectly clean, but undiluted bleach with a 12+ hour soak, did it in the end.	108	11	43
+439	B002UZQT58	A6ZPK5DTNPZPG	Health & Personal Care	6	I browsed around for other bottle types, but in the end I decided to keep this one because the cap locks so it's still a good bottle to travel with (I empty the water out first, just add the salt inside, then when I get to my hotel fill it with Aquafina).	108	12	52
+440	B002UZQT58	A6ZPK5DTNPZPG	Health & Personal Care	6	If I'd known about the cap bacteria-potential problem I wouldn't have bought it, but to me the portability of the bottle now does positively outweigh having to clean it with bleach from time to time.	108	13	34
+441	B002UZQT58	A1QSLTJVVBV4VA	Health & Personal Care	6	I love this product as it is easy to use.	109	1	10
+442	B002UZQT58	A1QSLTJVVBV4VA	Health & Personal Care	6	I only use about 1/4 of the powder each time as more seems to burn.	109	2	14
+443	B002UZQT58	A1QSLTJVVBV4VA	Health & Personal Care	6	It may also be my sensitive nose.	109	3	7
+444	B002UZQT58	A1QSLTJVVBV4VA	Health & Personal Care	6	I would highly recommend this to anyone with sinus issues.	109	4	10
+445	B002UZQT58	A1QSLTJVVBV4VA	Health & Personal Care	6	I have 2 one for me and one for my son.	109	5	10
+446	B002UZQT58	ALS9E01HVAVNM	Health & Personal Care	6	Quicker and more convenient than a Neti pot.	110	1	8
+447	B002UZQT58	ALS9E01HVAVNM	Health & Personal Care	6	This is a little messier to use, though.	110	2	8
+448	B002UZQT58	ALS9E01HVAVNM	Health & Personal Care	6	The volume of water moves through quicker, and I still have to tilt my head forward to keep it from running over my mouth or down my throat.	110	3	28
+449	B002UZQT58	ALS9E01HVAVNM	Health & Personal Care	6	There is some splashing.	110	4	4
+450	B002UZQT58	ALS9E01HVAVNM	Health & Personal Care	6	Think about a mustard bottle that's almost empty!	110	5	8
+451	B002UZQT58	ALS9E01HVAVNM	Health & Personal Care	6	I can't do it in one go.	110	6	7
+452	B002UZQT58	ALS9E01HVAVNM	Health & Personal Care	6	I usually squeeze the bottle 3 times, holding my breath each time.	110	7	11
+453	B002UZQT58	ALS9E01HVAVNM	Health & Personal Care	6	I'm still practicing.	110	8	3
+454	B002UZQT58	ALS9E01HVAVNM	Health & Personal Care	6	I probably need to empty the bottle slower, with less force.	110	9	11
+455	B002UZQT58	ALS9E01HVAVNM	Health & Personal Care	6	I will still use the Neti sometimes, because it feels like it gets deeper.	110	10	14
+456	B002UZQT58	ALS9E01HVAVNM	Health & Personal Care	6	This is so much quicker, that I'm worried it isn't as thorough.	110	11	12
+457	B002UZQT58	A2I6GCGJD0Q6PY	Health & Personal Care	6	I have been using the Netti pot, but I got this crazy cold where the power of gravity wasn't enough to get the mucus out of my nose.	111	1	28
+458	B002UZQT58	A2I6GCGJD0Q6PY	Health & Personal Care	6	I went on youtube to see if I was using it correctly.	111	2	12
+459	B002UZQT58	A2I6GCGJD0Q6PY	Health & Personal Care	6	There I found some videos about Nasopure.	111	3	7
+460	B002UZQT58	A2I6GCGJD0Q6PY	Health & Personal Care	6	I bought one right away and have been so so happy that I did.	111	4	14
+461	B002UZQT58	A2I6GCGJD0Q6PY	Health & Personal Care	6	So easy to use and it worked better then the Netti pot.	111	5	12
+462	B002UZQT58	A2I6GCGJD0Q6PY	Health & Personal Care	6	It is quicker and had more force to get the stuff out of my nose.	111	6	15
+463	B002UZQT58	A2I6GCGJD0Q6PY	Health & Personal Care	6	HIGHLY recommend.	111	8	2
+464	B002UZQT58	A1899PHB3D4QJ7	Health & Personal Care	6	This is my first nasal wash product to help clear my nasal passageway of mucus/infection or whatever else is hiding inside of my nasal - and my first wash was very impressive, it helped cleared the mucus for a few hours (I take it every 5 hours since then) , and when i wash before sleeping, helps me get a good night sleep ...I bought this because it looks small enough, light enough to take anywhere in the world, plus I don't need to tilt my head or something - sort of like just point and shot with this nasal washUpdate 06-11-2014 (bought 5-31-2014) whatever was inside my nasal is almost gone now, I can breath tons better and don't feel the stuffy/mucus residing inside of my nasal passage.This is my recipe for my nasal spray solution, feel free to make it more hyperTonic/IsoTonic/HypoTonic depending on your situation*Recipe #1 (Complex):1 cup of water (8 ounces)1/4 tsp salt1/2 tsp of xylitol crystals1/4 tsp baking soda4 drops of grapefruit seed extractRecipe #2:1 cup of water (8 ounces)1/4 - 1/2 tsp salt1/2 tsp of xylitol crystalsRecipe #3:1 cup of water (8 ounces)1/4 - 1/2 tsp of xylitol crystals*Iso = equal concentrationHyperTonic = higher concentrationHypo - less concentation	112	1	179
+479	B003Z0IPXG	A3LMPD1ZQTWOC4	Health & Personal Care	8	This costs about 33% less at my local Wal-Mart.	114	1	7
+480	B003Z0IPXG	A3LMPD1ZQTWOC4	Health & Personal Care	8	Many grocery items or subscribe and save items I buy on Amazon are a good value, but these are too expensive.	114	2	21
+481	B003Z0IPXG	A32JY3US93Q7RU	Health & Personal Care	8	The April Fresh scent can't be beat!	115	1	7
+482	B003Z0IPXG	A32JY3US93Q7RU	Health & Personal Care	8	Love to pull something out to wear and get a wonderful whiff of freshness!	115	2	14
+483	B003Z0IPXG	A95CDIPSZMBM5	Health & Personal Care	8	This new, lasting scent is truly awful, for those of us enamored with the original downy scent.	116	1	17
+484	B003Z0IPXG	A95CDIPSZMBM5	Health & Personal Care	8	It smells like overly sweet bubblegum of some sort - I tried adding a more citrusy smell with some of my natural fragrance oils, but that only made matters worse.	116	2	29
+485	B003Z0IPXG	A95CDIPSZMBM5	Health & Personal Care	8	When I complained via their web site they were very nice, sent me a coupon for a free bottle of whatever scent and size bottle I wanted to compensate me.	116	3	30
+486	B003Z0IPXG	A95CDIPSZMBM5	Health & Personal Care	8	I got the unscented and mixed my own scent.	116	4	9
+487	B003Z0IPXG	A135XHGMBR0OWF	Health & Personal Care	8	What can I say about Downey other than I love the way my laundry smells and feels.	117	1	17
+488	B003Z0IPXG	A135XHGMBR0OWF	Health & Personal Care	8	Price is very fair compared to supermarket.	117	2	7
+489	B003Z0IPXG	ACEA95FQS1AVP	Health & Personal Care	8	I hate lugging large bottles of detergent and softener from the grocery store.	118	1	13
+490	B003Z0IPXG	ACEA95FQS1AVP	Health & Personal Care	8	Amazon's subscription service is fantastic - especially for those with Prime accounts.	118	2	11
+491	B003Z0IPXG	ACEA95FQS1AVP	Health & Personal Care	8	The Downy is exactly what you buy in the store, for a comparable price.	118	3	14
+492	B003Z0IPXG	ACEA95FQS1AVP	Health & Personal Care	8	"It's delivered right to my door, and the packaging truly is ""frustration free."""	118	4	13
+493	B003Z0IPXG	ACEA95FQS1AVP	Health & Personal Care	8	The box opened easily and the bottles lifted right out.	118	5	10
+494	B003Z0IPXG	ACEA95FQS1AVP	Health & Personal Care	8	Plus, it's nice that I can determine a different schedule for my softener - which goes faster than my detergent,Era 2x Ultra 96 loads, 150.0-Ounce Bottles (Pack of 2).	118	6	25

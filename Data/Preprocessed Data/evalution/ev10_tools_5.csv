@@ -1,0 +1,305 @@
+	asin	reviewer_id	category	freq	sentence	num_review	num_sentence	sen_length
+0	B00004Z0YC	AASH83SNPTUXG	Tools & Home Improvement	7	These are extremely weak if you need to swing a heavy door.	1	1	12
+1	B00004Z0YC	AASH83SNPTUXG	Tools & Home Improvement	7	I have a solid wood door going into my basement and two of them can not close it completely, and yes I adjusted the tension to the max.	1	2	28
+2	B00004Z0YC	AASH83SNPTUXG	Tools & Home Improvement	7	If you are using it for a hollow core door they may work.	1	3	13
+3	B00004Z0YC	AASH83SNPTUXG	Tools & Home Improvement	7	Anything other than that, these are useless.	1	4	7
+4	B00004Z0YC	AASH83SNPTUXG	Tools & Home Improvement	7	Use the Everbuilt spring hinges which work great but require a little more work as you have to replace the whole hinge rather than just the pin.	1	5	27
+5	B00004Z0YC	A2PQ1IZY7T6QXY	Tools & Home Improvement	7	This is the 6th one of these that I've owned - all for the same door.	2	1	14
+6	B00004Z0YC	A2PQ1IZY7T6QXY	Tools & Home Improvement	7	they work well - for a while, but always crap out after a year or two and have to be replaced with a new one.	2	2	24
+7	B00004Z0YC	A2PQ1IZY7T6QXY	Tools & Home Improvement	7	I have tried fixing the broken ones, but they bend or the spring comes loose and they just can't be repaired.	2	3	21
+8	B00004Z0YC	A2PQ1IZY7T6QXY	Tools & Home Improvement	7	I have to use three of them to actually close my door - one one each of the three hinges - , but it is a large and heavy door and used several times a day.	2	4	33
+9	B00004Z0YC	A2PQ1IZY7T6QXY	Tools & Home Improvement	7	These are NOT good for commercial use - only residential and not for too heavy of a door either.	2	5	18
+10	B00004Z0YC	A2PQ1IZY7T6QXY	Tools & Home Improvement	7	However, they are inexpensive so replacing them is not too bad, easy to install, and unobtrusive.	2	6	16
+11	B00004Z0YC	A2PQ1IZY7T6QXY	Tools & Home Improvement	7	I would suggest buying twice the number you think you'll need so that you'll have replacements when they inevitably break.	2	7	20
+12	B00004Z0YC	A13VY0ZQM7QBAJ	Tools & Home Improvement	7	No need to drill holes on door frame/door3.	3	3	7
+13	B00004Z0YC	A13VY0ZQM7QBAJ	Tools & Home Improvement	7	Easy to setupCons:1.	3	4	2
+14	B00004Z0YC	A13VY0ZQM7QBAJ	Tools & Home Improvement	7	It lost its functionality within 1 month.2.	3	5	5
+15	B00004Z0YC	A13VY0ZQM7QBAJ	Tools & Home Improvement	7	Its door-pressing plate slightly damaged my door frame.It'd be 4-star if it hadn't broke so fast.	3	6	13
+16	B00004Z0YC	A3TB9HNQR54B5V	Tools & Home Improvement	7	I was disappointed by the strength of the spring on this.	4	1	11
+17	B00004Z0YC	A3TB9HNQR54B5V	Tools & Home Improvement	7	I used it on very light, hollow, standard size closet door.	4	2	11
+18	B00004Z0YC	A3TB9HNQR54B5V	Tools & Home Improvement	7	Even at the tightest setting it would barely close the door.	4	3	11
+19	B00004Z0YC	A3TB9HNQR54B5V	Tools & Home Improvement	7	I was able to improve it a little by jamming a small piece of cardboard between one of `arms' and the door to make the spring force even tighter.	4	4	29
+20	B00004Z0YC	A3TB9HNQR54B5V	Tools & Home Improvement	7	I lubricated the other hinges.	4	5	5
+21	B00004Z0YC	A3TB9HNQR54B5V	Tools & Home Improvement	7	The door swings with almost no resistance.	4	6	7
+22	B00004Z0YC	A3TB9HNQR54B5V	Tools & Home Improvement	7	Despite this the device barely closes it.	4	7	7
+23	B00004Z0YC	A3TB9HNQR54B5V	Tools & Home Improvement	7	In fact, even with all this it will not really close the door.	4	8	13
+24	B00004Z0YC	A3TB9HNQR54B5V	Tools & Home Improvement	7	It swings it to the point where the latch meets the frame.	4	9	12
+25	B00004Z0YC	A3TB9HNQR54B5V	Tools & Home Improvement	7	It does not have the strength to actually latch the door.	4	10	11
+26	B00004Z0YC	A3TB9HNQR54B5V	Tools & Home Improvement	7	I was hoping to use this to keep the cat out of the walk-in closet.	4	11	14
+27	B00004Z0YC	A3TB9HNQR54B5V	Tools & Home Improvement	7	However, because the door does not actually latch, the cat can push the door open and get in.	4	12	18
+28	B00004Z0YC	A3TB9HNQR54B5V	Tools & Home Improvement	7	I suspect that if you added two of these to each door it might work, but if I'm going to spend that much, there are probably better options.	4	13	28
+29	B00004Z0YC	A3TB9HNQR54B5V	Tools & Home Improvement	7	Installation is kind of a pain too.	4	14	7
+30	B00004Z0YC	A3TB9HNQR54B5V	Tools & Home Improvement	7	I spent at least a half hour trying to intall this and get it to work properly.	4	15	17
+31	B00004Z0YC	A3TB9HNQR54B5V	Tools & Home Improvement	7	Overall I cannot recommend this product.	4	16	7
+32	B00004Z0YC	A3MLCRWVNFR427	Tools & Home Improvement	7	Sorry Stanley but this product failed my expectations.	5	1	8
+33	B00004Z0YC	A3MLCRWVNFR427	Tools & Home Improvement	7	I installed this product to the door leading to my garage.	5	2	11
+34	B00004Z0YC	A3MLCRWVNFR427	Tools & Home Improvement	7	I could not think of any other door I could use this for so I proceeded with my installation.	5	3	19
+35	B00004Z0YC	A3MLCRWVNFR427	Tools & Home Improvement	7	My door has 3 existing hinges and figured that the weight is no longer a factor since it is suspended and swings freely.	5	4	22
+36	B00004Z0YC	A3MLCRWVNFR427	Tools & Home Improvement	7	Once installed, you would have to adjust the spring tension for your door to swing shut.	5	5	16
+37	B00004Z0YC	A3MLCRWVNFR427	Tools & Home Improvement	7	After several adjustments, my door would still not completely close.	5	6	10
+38	B00004Z0YC	A3MLCRWVNFR427	Tools & Home Improvement	7	I noticed that I could no longer make additional adjustments because the exposed spring on the top of the hinge started to buckle up.	5	7	24
+39	B00004Z0YC	A3MLCRWVNFR427	Tools & Home Improvement	7	I did not have any other options but to remove it.	5	8	11
+40	B00004Z0YC	A3MLCRWVNFR427	Tools & Home Improvement	7	It took me several hours installing and removing.	5	9	8
+41	B00004Z0YC	A3MLCRWVNFR427	Tools & Home Improvement	7	The pin that goes in the hinge became stuck and had to improvise ways to get it out in order for me to reuse my own hinge.	5	10	27
+42	B00004Z0YC	A3MLCRWVNFR427	Tools & Home Improvement	7	I thought of sending it back but installation/removal made it not reusable and left me no choice but to throw it away.	5	11	21
+46	B00008BFS5	A2BB4DGBRVGKWW	Tools & Home Improvement	38	"The silver model is no longer a nice shiny finish.It is now halfway between shiny and that crummy metallic light gray plastic which is called ""silver"" when used on cell phones."	8	1	30
+47	B00008BFS5	A2BB4DGBRVGKWW	Tools & Home Improvement	38	It's still a metal tube, but it looks cheap.The pocket clip is a darker color now, I guess so they can use the same color clip for all models.It's no less functional, but if all you want is function, and not appearance, there are more practical flashlights available which take AAA batteries instead of the slim AAAA batteries.	8	2	56
+48	B00008BFS5	A6DF9OQYVGS8X	Tools & Home Improvement	38	I figured this would be a standard pen length, but it is quite a bit longer.	9	1	16
+49	B00008BFS5	A6DF9OQYVGS8X	Tools & Home Improvement	38	Figure another inch or two.	9	2	5
+50	B00008BFS5	A6DF9OQYVGS8X	Tools & Home Improvement	38	It is the diameter of a pen, however.	9	3	8
+51	B00008BFS5	A6DF9OQYVGS8X	Tools & Home Improvement	38	Light output it decent, it's good to keep in your backpack or briefcase for emergency purposes.	9	4	16
+52	B00008BFS5	A6DF9OQYVGS8X	Tools & Home Improvement	38	If you want one that is the length of a pen, but slightly thicker, and has more lumens, look at the Streamlight Stylus Pro.I will say I was impressed that this penlight was made assembled in the USA.	9	5	37
+53	B00008BFS5	AJEOFP6ZWY0MK	Tools & Home Improvement	38	This is one of the best penlight I have purchased.	10	1	10
+54	B00008BFS5	AJEOFP6ZWY0MK	Tools & Home Improvement	38	It is very solidly built and the light is more than adequate for my need.	10	2	15
+55	B00008BFS5	AJEOFP6ZWY0MK	Tools & Home Improvement	38	As others have already noted the battery being AAAA size is hard to find and expensive.	10	3	16
+56	B00008BFS5	AJEOFP6ZWY0MK	Tools & Home Improvement	38	Unless you use this penlight daily in your line of work, the battery will hold its charge for a long time.	10	4	21
+57	B00008BFS5	AJEOFP6ZWY0MK	Tools & Home Improvement	38	HIGHLY RECOMMENDED.	10	5	2
+58	B00008BFS5	A3DBSTGY38473F	Tools & Home Improvement	38	Very nice LED light for tight corners to see.	11	1	9
+59	B00008BFS5	A3DBSTGY38473F	Tools & Home Improvement	38	Multi  use for almost every project.	11	2	6
+60	B00008BFS5	A3DBSTGY38473F	Tools & Home Improvement	38	It is the same size as a pencil.	11	3	8
+61	B00008BFS5	A3DBSTGY38473F	Tools & Home Improvement	38	If you do a lot of snaking you most have this light will make your job very easy.	11	4	18
+62	B00008BFS5	A3DBSTGY38473F	Tools & Home Improvement	38	If you are a Electrical Contractor & you snake a lot of wires you most buy one of this LED Streamlight you will save time & money.The only thing is you have to buy batteries  online instead at you local stores.	11	5	38
+63	B00008BFS5	A3NOBH42C7UI5M	Tools & Home Improvement	38	I don't have any long term experience with this product but it seems to be exactly what it claims to be.	12	1	21
+64	B00008BFS5	A3NOBH42C7UI5M	Tools & Home Improvement	38	I love the size and the light.	12	2	7
+65	B00008BFS5	A3NOBH42C7UI5M	Tools & Home Improvement	38	You can push on the back end to light the front while holding the button down, or you can twist the back end to have the light stay on without having to hold anything.	12	3	34
+66	B00008BFS5	A3NOBH42C7UI5M	Tools & Home Improvement	38	I just wish they had a cap to protect the button on the back so I wouldn't have to worry about using up batteries when the pen is being tossed around in my hand bag.The light is bright enough to look into a hand bag at night, or find a front door or car door lock in the darkness.	12	4	58
+67	B00008BFS5	A3NOBH42C7UI5M	Tools & Home Improvement	38	It's great for looking for something dropped in the movies because its bright enough to see but not bright enough to bother others.I like it so much I ordered some for Christmas gifts with all the different light colors.	12	5	38
+270	B00009K77A	ACL0T7X1THPAV	Tools & Home Improvement	9	I used this jig to cut holes for some speakers I built.	46	1	12
+271	B00009K77A	ACL0T7X1THPAV	Tools & Home Improvement	9	It works really well to hold the router in a circle pattern.	46	2	12
+272	B00009K77A	ACL0T7X1THPAV	Tools & Home Improvement	9	"Just a couple things to note:1) If you drill the pilot hole for the 1/8"" pin that fits into the jig at exactly 1/8"", then it's hard to get into/out of the material you are cutting."	46	3	32
+273	B00009K77A	ACL0T7X1THPAV	Tools & Home Improvement	9	"But if you make the pilot hole 1/64"" larger, then the pin will fall through the hole and out of the jig."	46	4	21
+274	B00009K77A	ACL0T7X1THPAV	Tools & Home Improvement	9	"I ended up drilling the pilot hole 1/64"" larger and putting masking tape below the hole to keep the pin from sliding through.2) The jig screws to the bottom of the router base."	46	5	31
+275	B00009K77A	ACL0T7X1THPAV	Tools & Home Improvement	9	So some of the pin holes for smaller diameter circles are blocked by the base of the router.	46	6	18
+276	B00009K77A	ACL0T7X1THPAV	Tools & Home Improvement	9	You can still insert the pin in them from the bottom, but it only goes in  the width of the plastic and can fall through the pilot hole or slip out of the jig if you're not careful.Other than that, it's a great help to cut perfectly round holes.	46	7	48
+277	B00009K77A	A38LJMF4HOYEBE	Tools & Home Improvement	9	Works awsome!	47	1	2
+278	B00009K77A	A38LJMF4HOYEBE	Tools & Home Improvement	9	Worth every penny.	47	2	3
+279	B00009K77A	A38LJMF4HOYEBE	Tools & Home Improvement	9	Nothing negative to say at all.	47	3	6
+280	B00009K77A	A38LJMF4HOYEBE	Tools & Home Improvement	9	I keep it attached to my plunge base even when not cutting circles since it acts as a bigger stabilizer when routing.	47	4	22
+281	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	"My friend and I build speaker cabinets, so we often use routers for cutting large circles; >4"".He thought this was a good idea and bought one."	48	1	25
+282	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	I have used it twice.Yes, it works as advertised and this price (at Amazon) is one of the best I've seen.However, I cannot understand why any woodworker worth his salt would buy one.I give it three stars because it works, but it is ridiculously overpriced, complicated and prone to breakage.First of all, many routers come with ( or have available) a simple circle cutting attachment that works just fine.	48	2	65
+283	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	If your router does not have such an attachment available, you can easily make one.	48	3	15
+284	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	I make them from brass rod which you can get cheaply at any hobby store.Further, you can make custom bases that automatically guarantee accurate circles.	48	4	24
+285	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	"I make mine from 3/8"" ply wood or lexan."	48	5	8
+286	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	Use the existing router base as a template, and make your custom base extension the size of the hole's radius, plus one or two inches.	48	6	25
+287	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	Drill a pilot hole (exactly on the center line) at one half the speaker-diameter, minus 1/2 the bit-size.	48	7	15
+288	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	"Each ""custom"" base costs about 50-cents worth of plywood (or 2-dollars of Lexan) and takes about five minutes to make.When you need to cut several holes of the same size, attaching a different router base is much faster and easier than fussing with this thing or ANY adjustable jig."	48	8	46
+289	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	For speaker builders, there is almost NO case where we do not have to cut more than one hole of the same size.	48	9	23
+290	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	"Even if you are building one-off custom guitar cabs with a single speaker, the home-made base is faster, easier and more accurate simply because you guarantee it works with YOUR router and bits when you build it.Having said all that, I can think of a case where this would be worth the money;IF... you have only one router ( and do not want to get another )IF... you will build many different types of speaker cabs, slowly and only as a hobby,IF... you cannot find, build or buy any $4 dollar aftermarket or manufactured circle jig,IF... you are only cutting speaker-holes larger than 4""THEN this is a recommended product.Any hole 4"" or smaller is more easily done with a hole saw."	48	10	117
+291	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	Typically, we only have to make small holes for tweeters.	48	11	10
+292	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	Then there is usually only one such hole per cab, or there are MANY, as in a line-array.	48	12	17
+293	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	"In either case, small holes are easier with the hole saws in a drill-press, so a router jig like this is useless for those.After building a few speaker cabinets, you will have a collection of bases for the most common speaker-sizes; each one marked with the ROUTER, SPEAKER SIZE, & BIT; for instance, ""BOSCH, 12"" Celestion, 1/8 bit""The most common speaker-sizes are 6"", 6.5"", 8"", 10"", 12"" and 15""."	48	13	57
+294	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	You can make ALL SIX of those custom bases for any router in 30 minutes.	48	14	14
+295	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	Label them, hang them on a nail near your work-area.	48	15	9
+296	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	With a screw driver, you can swap bases in less than one minute.You can switch out bases in one-minute and get working before the guy with this jig has even done his arithmetic.My plywood bases have NEVER broken in forty years of speaker building, despite being dropped, thrown and borrowed by careless co-workers dozens of times.	48	16	52
+297	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	I doubt that any plastic base would survive so well.I have demonstrated such jigs to countless musicians and speaker-builders over the decades and have shown people how to make them at least a hundred times.	48	17	33
+298	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	(That's right, I have made and given-away over a hundred circle cutting bases... they are THAT easy and cheap-to-make!	48	18	17
+299	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	)I am a real fan of ingenious jigs and would gladly support any new product that solved any woodworking problem economically, did the job faster, better or saved me work.	48	19	30
+300	B00009K77A	A1TVFEIAK9EMID	Tools & Home Improvement	9	This product does none of those things.	48	20	7
+301	B00009K77A	A2T99E90CFQA7Q	Tools & Home Improvement	9	Not much more that I can add to the other reviews here!	49	1	12
+302	B00009K77A	A2T99E90CFQA7Q	Tools & Home Improvement	9	This is a great router attachment for routing out recessed areas and holes for speaker builds or anything else that you can think of.	49	2	24
+303	B00009K77A	A2T99E90CFQA7Q	Tools & Home Improvement	9	It is accurate and attaches easily to router models it is intended for!	49	3	13
+304	B00009K77A	A2T99E90CFQA7Q	Tools & Home Improvement	9	I also have the Jasper 400T Model 400 for smaller holes as well and it is just as accurate as its bigger cousin.	49	4	21
+305	B00009K77A	A2T99E90CFQA7Q	Tools & Home Improvement	9	"If your routing holes under 2"" the Model 400 is required as the 200 won't go down that far!"	49	5	16
+306	B00009K77A	A2T99E90CFQA7Q	Tools & Home Improvement	9	Nice Products For Sure!	49	6	4
+307	B00009K77A	A2T99E90CFQA7Q	Tools & Home Improvement	9	Purchased from Amazon with two day delivery and nice packaging.	49	7	10
+308	B00009K77A	A2T99E90CFQA7Q	Tools & Home Improvement	9	THANKS AMAZON!!!	49	8	2
+309	B00009K77A	A3FMB8G1I489QA	Tools & Home Improvement	9	I'm not fond of plastic attachments or accessories as a rule, and clear acrylic - oh no!	50	1	16
+310	B00009K77A	A3FMB8G1I489QA	Tools & Home Improvement	9	But... the Jasper Circle jigs work very nicely indeed.	50	2	9
+311	B00009K77A	A3FMB8G1I489QA	Tools & Home Improvement	9	Buy them, read the instructions and follow the instructions and you get a excellent circles everytime.	50	3	16
+312	B00009K77A	A3FMB8G1I489QA	Tools & Home Improvement	9	I think I'd prefer this jig in an aluminum plate version, but perhaps that would be overkill.Anyhow, if I ever manage to break this jig, I'll buy a replacement without hesitation.	50	4	30
+313	B00009K77A	A3FMB8G1I489QA	Tools & Home Improvement	9	Good Jig.	50	5	2
+344	B0006SU3QW	A3B6AGL013FSAY	Tools & Home Improvement	14	I bought a couple of cans of this stuff to black out some of the chrome trim on my truck.	55	1	20
+345	B0006SU3QW	A3B6AGL013FSAY	Tools & Home Improvement	14	If you follow the instructions, it works perfectly - I was very satisfied with the results the first time I ever used this.	55	2	22
+346	B0006SU3QW	A3B6AGL013FSAY	Tools & Home Improvement	14	I've not had any trouble with the nozzle clogging.	55	3	9
+347	B0006SU3QW	A3B6AGL013FSAY	Tools & Home Improvement	14	A couple of things to keep in mind:  1)  it is better to go with many thin layers than a couple of heavy ones - the latter will likely produce very gloppy results.	55	4	31
+348	B0006SU3QW	A3B6AGL013FSAY	Tools & Home Improvement	14	2)  it is harder to get an even coat on a larger area than a smaller one - if you are doing thin layers, it seems like it takes more of them to get a properly heavy coat on a large surface than a small one.	55	5	44
+349	B0006SU3QW	A3B6AGL013FSAY	Tools & Home Improvement	14	3)  apart from the area you want sprayed, cover a much larger area than you'd expect with masking tape and newspaper to prevent the Plasti Dip from getting on surfaces where you don't want it - the overspray can be significant, especially on a windy day.	55	6	44
+350	B0006SU3QW	A3B6AGL013FSAY	Tools & Home Improvement	14	4)  You'll see a lot of stuff on the internet regarding removing excess / overspray (in my case, from the surface of a truck).	55	7	22
+351	B0006SU3QW	A3B6AGL013FSAY	Tools & Home Improvement	14	You can indeed rub it off with your fingers, or the heel of your hand, but I've had very good luck with rubbing alcohol and a lint-free cloth.	55	8	27
+352	B0006SU3QW	A3B6AGL013FSAY	Tools & Home Improvement	14	Some of the other solutions you'll see (gasoline, etc) seemed to have a high risk of damaging the finish).	55	9	19
+353	B0006SU3QW	A3B6AGL013FSAY	Tools & Home Improvement	14	Overall, very happy with the product - will use more!	55	10	9
+354	B0006SU3QW	A3GFPC4MTFIQK1	Tools & Home Improvement	14	I'm a veteran when it comes to spray paints and this is honestly the only time I have ever been in shock at how bad the design is.	56	1	28
+355	B0006SU3QW	A3GFPC4MTFIQK1	Tools & Home Improvement	14	The can holds much less than the average spray paint of similar size.	56	2	13
+356	B0006SU3QW	A3GFPC4MTFIQK1	Tools & Home Improvement	14	The nozzle, although a nice concept, gets clogged too easily.I wouldn't recommend these, unless you are doing a surface area the size of a medium desk.	56	3	25
+357	B0006SU3QW	ACTZ9X2SGGT9H	Tools & Home Improvement	14	The top spray cap popped off so I hope I still get to use the stuff in the can.	57	1	19
+358	B0006SU3QW	ACTZ9X2SGGT9H	Tools & Home Improvement	14	Poorly made can.	57	2	3
+359	B0006SU3QW	ACTZ9X2SGGT9H	Tools & Home Improvement	14	I hope the actual stuff in it works better.Update:  I got to use the can after messing with the cap and the spray on rubber looks good on rims.	57	3	28
+360	B0006SU3QW	ACTZ9X2SGGT9H	Tools & Home Improvement	14	I applied it to the rims on my GMC pickup.	57	4	10
+361	B0006SU3QW	ACTZ9X2SGGT9H	Tools & Home Improvement	14	With this rubber and bad ass deep tread tires, my pickup looks great!The only down side is the spray smells bad.	57	5	22
+362	B0006SU3QW	ACTZ9X2SGGT9H	Tools & Home Improvement	14	It smells like a mix of dog poo and wet rubber.	57	6	11
+363	B0006SU3QW	A330NGCO9T42FB	Tools & Home Improvement	14	It peels off way to easily for it to be useful in any way.	58	2	14
+364	B0006SU3QW	A330NGCO9T42FB	Tools & Home Improvement	14	I wish I would have returned it to Amazon while I had the chance.	58	3	14
+365	B0006SU3QW	A1CVG83WD9T7C8	Tools & Home Improvement	14	This PLASTI DIP coating is such a neat product.	59	1	9
+366	B0006SU3QW	A1CVG83WD9T7C8	Tools & Home Improvement	14	I used it to coat my plastic wheel center caps on my new truck.	59	2	14
+367	B0006SU3QW	A1CVG83WD9T7C8	Tools & Home Improvement	14	The coating sprayed on nice and even and did not run at all.	59	3	13
+368	B0006SU3QW	A1CVG83WD9T7C8	Tools & Home Improvement	14	I applied multiple coats to my center caps and then let them dry overnight.	59	4	14
+369	B0006SU3QW	A1CVG83WD9T7C8	Tools & Home Improvement	14	The end result was a nice even coating of a flat black, rubberized coating that adhered to the plastic surface nicely.	59	5	21
+370	B0006SU3QW	A1CVG83WD9T7C8	Tools & Home Improvement	14	This coating looks ten times better than traditional black spray paint on plastic center caps.	59	6	15
+371	B0006SU3QW	A1CVG83WD9T7C8	Tools & Home Improvement	14	I am getting ready to order some more of this product to do some more coating on my truck.	59	7	19
+426	B000PFNCHI	A2YXSMAP0A5TH0	Tools & Home Improvement	23	Easy to install, easy to test.	69	1	6
+427	B000PFNCHI	A2YXSMAP0A5TH0	Tools & Home Improvement	23	Replaced a different, old model, and went right on the wall where the screws for the old one did.	69	2	19
+428	B000PFNCHI	A2YXSMAP0A5TH0	Tools & Home Improvement	23	So far, no &#34;false alarms&#34;, but it's only been about 2 weeks that we've had it up.	69	3	16
+429	B000PFNCHI	A3R4Q2UEPTZPSQ	Tools & Home Improvement	23	In May of 2014, a TV news program did a special report on the two main types of smoke alarms .	70	1	19
+430	B000PFNCHI	A3R4Q2UEPTZPSQ	Tools & Home Improvement	23	Needless to say I currently had ionozation type but the new program reported homes should ALSO have photoelectric type alarms...so I went Amazon shopping and picked up three of these alarms...very well made includes an escape flood light to light the hallway to get the heck out of the house..I put one one each level of the home..PS ..I did leave the older type alarms in place and loaded with fresh batteries.	70	2	76
+431	B000PFNCHI	A1TD4Y59ZLPYN	Tools & Home Improvement	23	The most difficult thing about this was to get it out of the plastic that it came in.	71	1	18
+432	B000PFNCHI	A1TD4Y59ZLPYN	Tools & Home Improvement	23	Once I got it out of the package, easy to mount, and the light is decent, and should be enough if we ever have a need for it.	71	2	28
+433	B000PFNCHI	A18JJC51ULH7YI	Tools & Home Improvement	23	Every home should have a PHOTOELECTRIC SENSOR Smoke Alarm.	72	1	9
+434	B000PFNCHI	A18JJC51ULH7YI	Tools & Home Improvement	23	the Photoelectric sensor will sense particles faster than the old type smoke alarms.	72	2	13
+435	B000PFNCHI	A18JJC51ULH7YI	Tools & Home Improvement	23	The Escape Light works and could be a life saver in case of a fire/smoke.	72	3	14
+436	B000PFNCHI	A18JJC51ULH7YI	Tools & Home Improvement	23	I have both types of alarms in my house.	72	4	9
+437	B000PFNCHI	A18JJC51ULH7YI	Tools & Home Improvement	23	This smoke alarm could save your life, the price is very reasonable, I would highly recommend.	72	5	16
+438	B000PFNCHI	A1VGXHHR08G044	Tools & Home Improvement	23	This has a mounting plate with multiple positions for the holes on each side - it resembles a four-leaf clover where the screw can slip in.	73	1	24
+439	B000PFNCHI	A1VGXHHR08G044	Tools & Home Improvement	23	I was able to use existing screws in the ceiling from a really old smoke detector.	73	2	16
+440	B000PFNCHI	A1VGXHHR08G044	Tools & Home Improvement	23	This design provides flexibility in the distance between the screws.	73	3	10
+441	B000PFNCHI	A1VGXHHR08G044	Tools & Home Improvement	23	That means less chance of having to poke a new hole in the ceiling when replacing an existing unit.	73	4	19
+533	B0052MG5K0	A1B7BC97QX5RZT	Tools & Home Improvement	7	Installation was pretty easy, but if you don't know what you are doing in a breaker box, I'd suggest getting some assistance.The device pretty much just sits there and looks at me with its green glowing eyes.	92	1	36
+534	B0052MG5K0	A1B7BC97QX5RZT	Tools & Home Improvement	7	With any luck it is actually doing something!I really don't know the science behind it, but figured it was pretty cheap insurance to help protect other electronics in the house from a surge.	92	2	34
+535	B0052MG5K0	A1PFVA2REZ8GEI	Tools & Home Improvement	7	I've had more than my share of damage of my electronics due to thunder storms.	93	1	15
+536	B0052MG5K0	A1PFVA2REZ8GEI	Tools & Home Improvement	7	I bought two of these and installed them according to the instructions and solved all my problems.	93	2	17
+537	B0052MG5K0	A1PFVA2REZ8GEI	Tools & Home Improvement	7	Good product fair price.	93	3	4
+538	B0052MG5K0	A1PFVA2REZ8GEI	Tools & Home Improvement	7	I'm delighted.	93	4	2
+539	B0052MG5K0	A3PIPF1UAVY7IW	Tools & Home Improvement	7	This thing is simple to install.	94	1	6
+540	B0052MG5K0	A3PIPF1UAVY7IW	Tools & Home Improvement	7	It replaced a 20-Amp 2 Pole 240-Volt Circuit Breaker.	94	2	6
+541	B0052MG5K0	A3PIPF1UAVY7IW	Tools & Home Improvement	7	Once I turned the surge protector`s breakers on, two built-in green lights came on indicating circuit protection.	94	3	17
+542	B0052MG5K0	A3PIPF1UAVY7IW	Tools & Home Improvement	7	This is an excellent choice over having many surge protector strips all around the house.	94	4	15
+543	B0052MG5K0	A3PIPF1UAVY7IW	Tools & Home Improvement	7	However, like any other surge protector, one must really hope to never have to find out if it really works...or not.One drawback is that it doesn't protect cable TV as cable or satellite signal is sent through a coaxial cable independent of the electric wiring.	94	5	45
+544	B0052MG5K0	A3PIPF1UAVY7IW	Tools & Home Improvement	7	For that you may want to install a surge protector like theIntermatic IG1300-2T-1C3 120/240 VAC Single Phase Type 2 Surge Protection with Two Telephone and One Coax Lines, which is also sold here at Amazon.	94	6	32
+545	B0052MG5K0	A1ZTS0O3YLLTN1	Tools & Home Improvement	7	Took about 3 minutes to install, couldn't be easier.	95	1	8
+546	B0052MG5K0	A1ZTS0O3YLLTN1	Tools & Home Improvement	7	I don't know if it works because I haven't been struck by lightning yet, but Siemens is a good name so I will trust it.From all the units I looked at, I chose this one because it pops in the box and that's it - no exterior holes, mounting, cable routing, gouging, hacking or swearing.	95	2	53
+547	B0052MG5K0	A1ZTS0O3YLLTN1	Tools & Home Improvement	7	This just popped in and that was it.I bought two, one as a spare.Love it.	95	3	13
+548	B0052MG5K0	A2S2MQUJVPUPEU	Tools & Home Improvement	7	Realistically, this is a niche item for most DIYers.	96	1	9
+549	B0052MG5K0	A2S2MQUJVPUPEU	Tools & Home Improvement	7	I am building a 5 outlet panel for my closet in my spare room.	96	2	13
+550	B0052MG5K0	A2S2MQUJVPUPEU	Tools & Home Improvement	7	With all my stuff...Security DVR,router,modem, ecigarette battery chargers,Li-ion tools battery chargers,Lawn Mower battery chargers my spare room was a den of cordless and corded nightmares.	96	3	29
+551	B0052MG5K0	A2S2MQUJVPUPEU	Tools & Home Improvement	7	So I planned out what i needed and got everything together but the breakers that i needed to run the dedicated line to the outlets.	96	4	25
+552	B0052MG5K0	A2S2MQUJVPUPEU	Tools & Home Improvement	7	Low and behold I came across this item recommended by Amazon for me.	96	5	13
+553	B0052MG5K0	A2S2MQUJVPUPEU	Tools & Home Improvement	7	Considering I have hospital grade surge outlets on every one in my home(not bought here FYI) i believe Amazon has spies in my packages :-) .	96	6	25
+554	B0052MG5K0	A2S2MQUJVPUPEU	Tools & Home Improvement	7	So the surge lunatic that i am ponied the extra 70$ (versus 30$ for two standard beaker) and placed my order on Amazon.	96	7	21
+555	B0052MG5K0	A2S2MQUJVPUPEU	Tools & Home Improvement	7	I can tell you a couple of things about this product, It fit in my electrical panel(GE) perfectly(took up two breaker spots, gave me two working breakers, It was east to install.	96	8	34
+556	B0052MG5K0	A2S2MQUJVPUPEU	Tools & Home Improvement	7	It also has given me piece of mind.	96	9	8
+557	B0052MG5K0	A2S2MQUJVPUPEU	Tools & Home Improvement	7	Other than those things, until an event triggers the extra protection, I can say that as a dual breaker it is as good as any other breaker I have installed.	96	10	30
+558	B0052MG5K0	A2S2MQUJVPUPEU	Tools & Home Improvement	7	A lot of electricians swear by these TYPES of whole house protection,so that is as far as I got with if this was a worthwhile investment.	96	11	27
+571	B007QV4PZM	AXT4VG2XDXGC4	Tools & Home Improvement	6	I saw these in the Cool Tools section of Handyman magazine and immediately went on Amazon and bought them.	99	1	19
+572	B007QV4PZM	AXT4VG2XDXGC4	Tools & Home Improvement	6	Are they something that you will use every day?	99	2	9
+573	B007QV4PZM	AXT4VG2XDXGC4	Tools & Home Improvement	6	Probably not.	99	3	2
+574	B007QV4PZM	AXT4VG2XDXGC4	Tools & Home Improvement	6	But when that job comes along and only these will work.	99	4	11
+575	B007QV4PZM	AXT4VG2XDXGC4	Tools & Home Improvement	6	Then it was worth the money.	99	5	6
+576	B007QV4PZM	AXT4VG2XDXGC4	Tools & Home Improvement	6	They appear to be high quality and have an internal spring that holds them in the open position.	99	6	18
+577	B007QV4PZM	AXT4VG2XDXGC4	Tools & Home Improvement	6	My only negative comment.....Made in China!	99	7	7
+578	B007QV4PZM	A2U0LY01LK9C3E	Tools & Home Improvement	6	Upon first picking one of these up out of the hard foam molded storage tray you feel substantial weight per size, I found the the finish quite acceptable, the handles are nicely coated, internal spring keeps them open for ready use.	100	1	41
+579	B007QV4PZM	A2U0LY01LK9C3E	Tools & Home Improvement	6	The small pair is 6.3 oz weight, the large pair 9.9 oz.	100	2	10
+580	B007QV4PZM	A2U0LY01LK9C3E	Tools & Home Improvement	6	The small pair extends out from the joint approx.	100	3	9
+581	B007QV4PZM	A2U0LY01LK9C3E	Tools & Home Improvement	6	1 1/2&#34; with 1&#34; of teeth on the end.	100	4	6
+582	B007QV4PZM	A2U0LY01LK9C3E	Tools & Home Improvement	6	The large pair extends out from the joint approx.	100	5	9
+583	B007QV4PZM	A2U0LY01LK9C3E	Tools & Home Improvement	6	3 1/4&#34; with teeth on the last  1 3/4&#34;.	100	6	5
+584	B007QV4PZM	A2U0LY01LK9C3E	Tools & Home Improvement	6	Coated handle length on the large pair is approx.	100	7	9
+585	B007QV4PZM	A2U0LY01LK9C3E	Tools & Home Improvement	6	4 1/2&#34;, on the small pair  coated handle length is approx.	100	8	9
+586	B007QV4PZM	A2U0LY01LK9C3E	Tools & Home Improvement	6	The gripping end thickness across is approx.	100	10	7
+587	B007QV4PZM	A2U0LY01LK9C3E	Tools & Home Improvement	6	1/4&#34; ....I know this is a lot of details, just trying to give you an idea ...but the bottom line is heck yeah I would buy another pair in a heartbeat, this is probably one of the best bang for buck values on Amazon and I recommend these.	100	11	47
+588	B007QV4PZM	A3Q7TY0T4PQULD	Tools & Home Improvement	6	Purchased these while scanning the Amazon site for angled needle point pliers.	101	1	12
+589	B007QV4PZM	A3Q7TY0T4PQULD	Tools & Home Improvement	6	Can&#8217;t pretend that I was specifically searching for a Kiwi-style set, but based on the &#8216;acceptable&#8217; price, I made a stab at it.	101	2	23
+590	B007QV4PZM	A3Q7TY0T4PQULD	Tools & Home Improvement	6	Am pleased with the set, without thoroughly analyzing and commenting on the quality of the engineering.	101	3	16
+591	B007QV4PZM	A3Q7TY0T4PQULD	Tools & Home Improvement	6	The only feature I would have favored would have been pointier ends, which would have enabled the pairs to perform similar tasks as needle point pliers.	101	4	26
+592	B007QV4PZM	A2SZVE3BF0BK3P	Tools & Home Improvement	6	For about $9 per plier - I guess that I should not have expected much.	102	1	13
+593	B007QV4PZM	A2SZVE3BF0BK3P	Tools & Home Improvement	6	Could not get the smaller one to adequately grip a small cotter pin being removed.	102	2	15
+594	B007QV4PZM	A2SZVE3BF0BK3P	Tools & Home Improvement	6	Wiha Inomic (32852) and NWS (1096-49-20000 pliers are much better examples of this sort of design - but obviously more expensive	102	3	18
+595	B007QV4PZM	A31Y28UEDXQ0HB	Tools & Home Improvement	6	This set is very heavy duty as others have said.	103	1	10
+596	B007QV4PZM	A31Y28UEDXQ0HB	Tools & Home Improvement	6	I use the to get into tight places to get out everything from screws to nails they are well built and the ones I got are very tight but if you are looking for something small keep looking these are not small.	103	2	42
+599	B008UPDPIG	A3A1OA237FOZFK	Tools & Home Improvement	49	I am not using these for under a cabinet (as indicated in the product name) but rather in my garage and on the landing of some stairs.	105	1	27
+600	B008UPDPIG	A3A1OA237FOZFK	Tools & Home Improvement	49	I previously had a motion light on the stairs which had an on/off switch and a photocell option so it would only function if it was both dark and sensed motion.	105	2	30
+601	B008UPDPIG	A3A1OA237FOZFK	Tools & Home Improvement	49	I did not think the lack of the photocell feature would be such a big deal except the motion sensor is so sensitive, it sets off the light way more often than I would like.	105	3	35
+602	B008UPDPIG	A3A1OA237FOZFK	Tools & Home Improvement	49	So far, the first set of batteries I have used in both are still going, although after a solid month of use, the light on the stair landing is starting to fade due to low batteries.	105	4	36
+603	B008UPDPIG	A3A1OA237FOZFK	Tools & Home Improvement	49	I will try some rechargeable batteries next time, although I find light products tend to burn through rechargeable batteries quicker than regular batteries, even when brand new and fully charged.	105	5	30
+604	B008UPDPIG	A3A1OA237FOZFK	Tools & Home Improvement	49	Overall, I am still pleased with the function of the lights and really like having one in my garage since the light switch is actually a few feet from the door inside the garage itself.	105	6	35
+605	B008UPDPIG	A3A1OA237FOZFK	Tools & Home Improvement	49	Now I can see when I step into the garage without having to go to the light switch just to get something from the freezer.UPDATE:After using these for 3 weeks, I am back to update my review (and dropping from 4 stars to 2 stars).	105	7	42
+606	B008UPDPIG	A3A1OA237FOZFK	Tools & Home Improvement	49	One of the lights starting turning itself on every 10 seconds (on for 20 seconds, off for 10, back on for 20).	105	8	18
+607	B008UPDPIG	A3A1OA237FOZFK	Tools & Home Improvement	49	I even laid it down where the sensor could not trigger and it kept happening.	105	9	15
+608	B008UPDPIG	A3A1OA237FOZFK	Tools & Home Improvement	49	The problem persisted even after putting in a fresh set of batteries.	105	10	12
+609	B008UPDPIG	A3A1OA237FOZFK	Tools & Home Improvement	49	Given this turns the product into a 50% failure rate, I have reduced my rating.	105	11	14
+610	B008UPDPIG	AQOXE4PH6ASY6	Tools & Home Improvement	49	I have to say, my bright idea--so to speak--was to use these as motion-sensing night lights for my kids' rooms.	106	1	21
+611	B008UPDPIG	AQOXE4PH6ASY6	Tools & Home Improvement	49	They almost work for that purpose, except that they are only motion-sensing, not light-sensing, and so they turn on at any time of the night or day.	106	2	25
+612	B008UPDPIG	AQOXE4PH6ASY6	Tools & Home Improvement	49	If it's noon on a Saturday and I walk by one of the rooms--even out in the hall, because they are very sensitive, and I have one aimed toward the door--it will light up.	106	3	36
+613	B008UPDPIG	AQOXE4PH6ASY6	Tools & Home Improvement	49	I suppose that's okay, but it's a little jarring.But of course, that's not this product's intended purpose.	106	4	16
+614	B008UPDPIG	AQOXE4PH6ASY6	Tools & Home Improvement	49	I think, given their sensitivity and their relatively small size--perhaps the size of two or three iPhones, stacked--they would be ideal for under a kitchen cabinet, though in such a location, you might have to wave a hand in the general vicinity to activate them.The light is bright if you're close to it, and in a darkened room, it provides enough light to be able to walk around and see objects.	106	5	72
+615	B008UPDPIG	AQOXE4PH6ASY6	Tools & Home Improvement	49	But I took one into a small walk-in closet, and I found the light from one to be a little too dim to pick out clothes.	106	6	25
+616	B008UPDPIG	AQOXE4PH6ASY6	Tools & Home Improvement	49	However, they might be just the ticket for something like a linen closet with no light of its own, or perhaps to illuminate the circuit breaker box, or for a typical closet with a sliding door.	106	7	36
+617	B008UPDPIG	AQOXE4PH6ASY6	Tools & Home Improvement	49	I can imagine many useful applications for them, especially they seem pretty inexpensive.	106	8	13
+618	B008UPDPIG	A2S4K8ZX5APXVF	Tools & Home Improvement	49	I've mounted 4 of these in two closets.	107	1	7
+619	B008UPDPIG	A2S4K8ZX5APXVF	Tools & Home Improvement	49	The only problem was getting one of them to stick.	107	2	10
+620	B008UPDPIG	A2S4K8ZX5APXVF	Tools & Home Improvement	49	I will be screwing it into place.	107	3	7
+621	B008UPDPIG	A2S4K8ZX5APXVF	Tools & Home Improvement	49	(The other 3 have stayed in place just fine.)	107	4	8
+622	B008UPDPIG	ACJ5GEIE3H4I4	Tools & Home Improvement	49	I've mounted these between my exterior doors and screen doors on my house.	108	1	13
+623	B008UPDPIG	ACJ5GEIE3H4I4	Tools & Home Improvement	49	I no longer have to leave outside lights on to see where to put my key at night.	108	2	18
+624	B008UPDPIG	ACJ5GEIE3H4I4	Tools & Home Improvement	49	Although they are not rated for outdoor use, temperature doesn't seem to bother them.	108	3	14
+625	B008UPDPIG	ACJ5GEIE3H4I4	Tools & Home Improvement	49	I'm assuming the interior rating is for moisture.	108	4	8
+626	B008UPDPIG	ACJ5GEIE3H4I4	Tools & Home Improvement	49	The sensor sees ambient light so it saves battery during the day.	108	5	12
+627	B008UPDPIG	A2HYHT45PHNIIG	Tools & Home Improvement	49	I bought these, not knowing exactly where I was going to use them.	109	1	13
+628	B008UPDPIG	A2HYHT45PHNIIG	Tools & Home Improvement	49	They ended up in the coat closet.	109	2	7
+629	B008UPDPIG	A2HYHT45PHNIIG	Tools & Home Improvement	49	I put one on each side of the closet.	109	3	9
+630	B008UPDPIG	A2HYHT45PHNIIG	Tools & Home Improvement	49	When the door opens, they both light up and illuminate the area wonderfully!	109	4	13
+631	B008UPDPIG	A2HYHT45PHNIIG	Tools & Home Improvement	49	So well in fact, I decided to declutter the closet, so that it would look 'good'.	109	5	15
+632	B008UPDPIG	A2HYHT45PHNIIG	Tools & Home Improvement	49	Got rid of 3 coats and 2 bags of who knows what.	109	6	10
+633	B008UPDPIG	A2HYHT45PHNIIG	Tools & Home Improvement	49	I've found battery life to be an issue with lights like these in the past, but with them being in a closet, I'm hoping that won't be a problem.	109	7	29
+634	B008UPDPIG	A2HYHT45PHNIIG	Tools & Home Improvement	49	They are very sensitive.	109	8	4
+635	B008UPDPIG	A2HYHT45PHNIIG	Tools & Home Improvement	49	For the few days they sat on the countertop, they would light up every time I walked into the room.	109	9	20
+636	B008UPDPIG	A2HYHT45PHNIIG	Tools & Home Improvement	49	That might be exactly what you want or need in under cabinet lighting, so keep that in mind.	109	10	18
+1033	B009KZ20D6	A80EAKMU4YTTF	Tools & Home Improvement	13	These are a great complement to anyone looking for a good set of small drivers.	154	1	15
+1034	B009KZ20D6	A80EAKMU4YTTF	Tools & Home Improvement	13	They come in a case that make them easy to store .	154	2	11
+1035	B009KZ20D6	A80EAKMU4YTTF	Tools & Home Improvement	13	and access.	154	3	2
+1036	B009KZ20D6	A80EAKMU4YTTF	Tools & Home Improvement	13	Highly recommended	154	4	2
+1037	B009KZ20D6	A2T4RPHVVIO0BV	Tools & Home Improvement	13	I mainly use these for my laptop.	155	1	7
+1038	B009KZ20D6	A2T4RPHVVIO0BV	Tools & Home Improvement	13	It unscrews without stripping the screw head.	155	2	7
+1039	B009KZ20D6	A2T4RPHVVIO0BV	Tools & Home Improvement	13	Great value and quality.	155	3	4
+1040	B009KZ20D6	A2T4RPHVVIO0BV	Tools & Home Improvement	13	The carrying case is a nice touch.	155	4	7
+1041	B009KZ20D6	A2T4RPHVVIO0BV	Tools & Home Improvement	13	My mom used them for her reading glasses.	155	5	8
+1042	B009KZ20D6	AMVTID8YNL9ZS	Tools & Home Improvement	13	I went ahead and bought another set of these due to the low Amazon prime price and free shipping.	156	1	19
+1043	B009KZ20D6	AMVTID8YNL9ZS	Tools & Home Improvement	13	I already own a set that I use at my shop.	156	2	11
+1044	B009KZ20D6	AMVTID8YNL9ZS	Tools & Home Improvement	13	Now I will have a set to take with me on the road.	156	3	13
+1045	B009KZ20D6	AMVTID8YNL9ZS	Tools & Home Improvement	13	I work on laptops and small hand held electronics all the time, but I have found the 20-30-40-50 bit kits lack something that this toolset gives me, and that is the length needed to get down to deeply embedded screws on some laptops.	156	4	42
+1046	B009KZ20D6	AMVTID8YNL9ZS	Tools & Home Improvement	13	You never really realize you need a long set of screw drivers like this, until you need them.	156	5	18
+1047	B009KZ20D6	AMVTID8YNL9ZS	Tools & Home Improvement	13	I was working on a customers Dell Laptop yesterday, and the screws on the back end of the laptop were about an inch deep in the case.	156	6	27
+1048	B009KZ20D6	AMVTID8YNL9ZS	Tools & Home Improvement	13	"My regular ""Boxer"" set of precision drivers just didn't have the length needed to get down to the screw heads and remove the screws."	156	7	24
+1049	B009KZ20D6	AMVTID8YNL9ZS	Tools & Home Improvement	13	Nothing is as frustrating to me, than my screw driver being too fat, and too short to do the job.	156	8	20
+1050	B009KZ20D6	AMVTID8YNL9ZS	Tools & Home Improvement	13	"These screw drivers have a longer shaft, and none of the ""too chubby to fit in that hole"" that you get with a multi bit driver set."	156	9	27
+1051	B009KZ20D6	AMVTID8YNL9ZS	Tools & Home Improvement	13	This is where this tool kit shines, and in my humble opinion, everyone who works on laptops or cell phones needs a set like these.	156	10	25
+1052	B009KZ20D6	AMVTID8YNL9ZS	Tools & Home Improvement	13	For 10 bucks, free shipping with prime, you can't really go wrong.	156	11	11
+1053	B009KZ20D6	A1XNVKP1R1ZOZY	Tools & Home Improvement	13	had to take apart a camera---those frigging screws are exactly tiny as #%%.	157	1	12
+1054	B009KZ20D6	A1XNVKP1R1ZOZY	Tools & Home Improvement	13	this kit has a driver that fit em...whew...good luck getting those little bastages (screws) back in though...	157	2	19
+1055	B009KZ20D6	A32JCI4AK2JTTG	Tools & Home Improvement	13	This is a nice, well made and thought out precision screwdriver set.	158	1	12
+1056	B009KZ20D6	A32JCI4AK2JTTG	Tools & Home Improvement	13	Comes in a nice case, which helps keep things where they belong instead of tossed in a drawer or toolbox to get lost in or having to dig through things to find the precision screwdriver you where looking for.	158	2	39
+1057	B009KZ20D6	A32JCI4AK2JTTG	Tools & Home Improvement	13	Comes in very handy for working on computers, small electronics as well as tightening the screws on your eyeglasses, and those of us who wear specs know what it is like to loose a screw and having an earpiece come off or worse yet a lens popping out.	158	3	48
+1058	B009KZ20D6	A32JCI4AK2JTTG	Tools & Home Improvement	13	I would recommend this product to anyone looking for a nice precision screwdriver set, and theyare priced nicely.	158	4	18
+1086	B00ANI1QXY	A3G09CPM1L1O9V	Tools & Home Improvement	5	Pun intended.These really updated the look of my fridge.	167	1	8
+1087	B00ANI1QXY	A3G09CPM1L1O9V	Tools & Home Improvement	5	They are super bright, clean looking, and best of all, they are not blazing hot like the standard bulbs that were in there.These shipped from China if I am not mistaken.	167	2	30
+1088	B00ANI1QXY	A3G09CPM1L1O9V	Tools & Home Improvement	5	Shipping time was way earlier than estimated.	167	3	7
+1089	B00ANI1QXY	A3G09CPM1L1O9V	Tools & Home Improvement	5	I don't like supporting them either, but I couldn't find these anywhere else.	167	4	13
+1090	B00ANI1QXY	A2JH6CFSF240MS	Tools & Home Improvement	5	i wasn't sure how well this was going to work but I am happy with it.	168	1	16
+1091	B00ANI1QXY	A2JH6CFSF240MS	Tools & Home Improvement	5	Bright enough to see everything and I like the white look.	168	2	11
+1092	B00ANI1QXY	A2JH6CFSF240MS	Tools & Home Improvement	5	I will get a few more for sure.	168	3	8
+1093	B00ANI1QXY	A1PF6BKW386KM	Tools & Home Improvement	5	Good enough for refrigerator.	169	1	4
+1094	B00ANI1QXY	A1PF6BKW386KM	Tools & Home Improvement	5	I replaced my fridge bulbs with these to save energy and make my fridge look more modern.	169	2	17
+1095	B00ANI1QXY	A1PF6BKW386KM	Tools & Home Improvement	5	These bulbs did that job well.	169	3	6
+1096	B00ANI1QXY	A1PF6BKW386KM	Tools & Home Improvement	5	My estimate is these bulbs is equivalent to the 25w incandescent bulbs or a sminch less.As for the light color, they do have the bluish cool color.	169	4	25
+1097	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	One day I noticed that my new refrigerator had a total of six internal light bulbs, to light up the refrigerator side and light up the freezer side, three on each side.	170	1	32
+1098	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	No big deal.	170	2	3
+1099	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	The bulbs were very small, possibly custom built for the appliance in China.	170	3	13
+1100	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	I touched a bulb and almost burned my finger, it was so hot!	170	4	13
+1101	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	So I got a towel, remove it, and read on the base that it was a 40 watt incandescent!	170	5	18
+1102	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	So every time I opened either door, three bulbs generated 120 watts of heat, working as hard as they could to heat the cold interior!	170	6	24
+1103	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	Now the last thing I want inside my fridge is a huge heat source, so I went searching for replacement bulbs, preferably LED.	170	7	23
+1104	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	It took a while to find a very small bulb with a normal sized base that would fit the space properly, but these were just perfect.The bulbs I was replacing were 40 watt incandescent, and supposedly give off 400 lumens of light or so.	170	8	41
+1105	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	My experience has been that if I change from the 2000-3000 angstrom warm light to 5500-6500 angstrom bright daylight, less lumens are required for the same subjective level of luminance.	170	9	28
+1106	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	So I took a chance and ordered these 300 lumen bulbs to replace my 400 lumen plus bulbs.	170	10	16
+1107	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	After installation they seem every bit as bright as the bulbs I replaced.	170	11	13
+1108	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	The interior is nice and white and the colors show up the way they should, instead of looking yellowish.	170	12	19
+1109	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	The bulbs provide even light output in all directions, only burn 3.5 watts, and are nicely out of the way the way fridge bulbs should be.	170	13	25
+1110	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	So now with both doors open, we have 21 watts of light instead of 240 watts of light (less than 1/10th as much power), without sacrificing visibility.	170	14	24
+1111	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	My wife and I are quite happy with them.And as long as they worked in the fridge, I checked out the microwave counter light.	170	15	23
+1112	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	I've always been peeved that microwave ovens use two 40 watt bulbs to light your stovetop, or 80 watts total, and the bulbs are those special skinny ones that can only be found at the major hardware stores.	170	16	36
+1113	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	Well, at least in my Bosch microwave, the LED bulbs work just fine.And why am I so fanatical about energy usage?	170	17	20
+1114	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	Well, our house is solar powered, and we want to save every erg we can so we will remain a net zero home.	170	18	23
+1115	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	These bulbs add a little bit of help in this effort.Finally, I should mention that from the time of order to arrival took only ten days, even though they shipped directly from China.	170	19	32
+1116	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	I had expected four to six weeks, but no, they showed up in less than two.	170	20	16
+1117	B00ANI1QXY	AUFQ68T67GECZ	Tools & Home Improvement	5	Two thumbs up for these wonderful bulbs.	170	21	7
+1118	B00ANI1QXY	A2XRPG1CDV5D6U	Tools & Home Improvement	5	Excellent, very small form factor.	171	1	5
+1119	B00ANI1QXY	A2XRPG1CDV5D6U	Tools & Home Improvement	5	I particularly like its plastic cover, so it doesn't feel like it will shatter.	171	2	14
+1120	B00ANI1QXY	A2XRPG1CDV5D6U	Tools & Home Improvement	5	Corn bulb because it looks like an ear of corn?	171	3	10
