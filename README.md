@@ -12,10 +12,20 @@ The raw and preprocessed data are given in the folder 'Data'. In the folder 'Cod
 * 
 
 ## Code: Data
-* ```data_training```. This file contains data preprocessing and exploration of the training data.
-* ```data_full```. This file contains data preprocessing of full data and constructs evaluation data.
-* ```data_meta```. This file is used to get the name of the products in the evaluation data.
-* ```data_results```. This file is used to do calculations with the result data of the BERT model.
+* ```data_training.py```. This file contains data preprocessing and exploration of the training data.
+* ```data_full.py```. This file contains data preprocessing of full data and constructs evaluation data.
+* ```data_meta.py```. This file is used to get the name of the products in the evaluation data.
+* ```data_results.py```. This file is used to do calculations with the result data of the BERT model.
 
 ## Code: Models
-* Later.
+* ```BERT_Section5_1.py'''.
+* ```BERT_Section5_2.ipynb'''. This file saves the [CLS] token and uses it as input for LR, XGB or ANN classifier.
+* ```BERT_Section5_2.ipynb'''. 
+* ```BERT_Section5_2.ipynb'''.
+* ```BERT_Section5_2.ipynb'''.
+* ```BERT_Section5_4.ipynb'''.
+* ```BERT_Section5_5.ipynb'''.
+
+
+* ```BERT_FeatureClassification'''. This file saves the [CLS] token and uses it as input for LR, XGB or ANN classifier.
+* 
