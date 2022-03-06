@@ -12,10 +12,10 @@ The raw and preprocessed data are given in the folder 'Data'. In the folder 'Cod
 * 
 
 ## Code Data
-* ```data_training.py```. This file contains data preprocessing and exploration of the training data.
-* ```data_full.py```. This file contains data preprocessing of full data and constructs evaluation data.
+* ```data_training.py```. This file contains data preprocessing and exploration of the training data (85171 sentences, later split in train, val, test).
+* ```data_full.py```. This file contains data preprocessing of complete data sets as can be found online (not-labeled) and constructs evaluation data (Section 5.5).
 * ```data_meta.py```. This file is used to get the name of the products in the evaluation data.
-* ```data_results.py```. This file is used to do calculations with the result data of the BERT model.
+* ```data_results.py```. This file is used to do calculations with the result data (Section 5.5) of the BERT model.
 
 ## Code Models
 * ```BERT_Section5_1.py```. This file plots the sequence length of the training data.
@@ -23,4 +23,3 @@ The raw and preprocessed data are given in the folder 'Data'. In the folder 'Cod
 * ```BERT_Section5_3.ipynb```. This file performs fine-tuning of BERT models for unbalanced and balanced data; weighted and unweighted cross-entropy; category specific and pooled data.
 * ```BERT_Section5_4.ipynb```. This file aims to find the final best TipBERT model.
 * ```BERT_Section5_5.ipynb```. This file performs TipBERT on new products.
-* 
