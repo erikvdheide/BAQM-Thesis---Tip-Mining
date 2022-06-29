@@ -1,5 +1,5 @@
-# BAQM Thesis Tip Mining
-*Erik van der Heide. Erasmus University Rotterdam 2021-2022.*
+# MSc Thesis Business Analytics & Quantative Marketing - Tip Mining
+*Erik van der Heide. Erasmus University Rotterdam 2021.*
 
 This repository contains all files used for my master thesis "TipBERT: Extracting Tips from Customer Reviews in E-commerce Using BERT".
 
